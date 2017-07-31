@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 161905,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161905",
+    "nomeCivil": "ANDRÉ TEIXEIRA DIAS",
+    "ultimoStatus": {
+      "id": 161905,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161905",
+      "nome": "ANDRÉ DIAS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/161905.jpg",
+      "data": "2011-12-12",
+      "nomeEleitoral": "ANDRÉ DIAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.andredias@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-12-12",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

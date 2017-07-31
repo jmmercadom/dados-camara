@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141485,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
+    "nomeCivil": "LUIZ CARLOS GHIORZZI BUSATO",
+    "ultimoStatus": {
+      "id": 141485,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
+      "nome": "LUIZ CARLOS BUSATO",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141485.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "LUIZ CARLOS BUSATO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.luizcarlosbusato@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1948-11-06",
+    "dataFalecimento": null,
+    "ufNascimento": "SC",
+    "municipioNascimento": "Cacador",
+    "escolaridade": null
+  },
+  "links": null
+}

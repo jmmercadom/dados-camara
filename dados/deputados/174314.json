@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 174314,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/174314",
+    "nomeCivil": "PEDRO DOS SANTOS LIMA GUERRA",
+    "ultimoStatus": {
+      "id": 174314,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/174314",
+      "nome": "PEDRO GUERRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/174314.jpg",
+      "data": "2013-10-08",
+      "nomeEleitoral": "PEDRO GUERRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.pedroguerra@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1981-09-14",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

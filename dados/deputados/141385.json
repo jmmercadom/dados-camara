@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141385",
+    "nomeCivil": "ANTONIO DUARTE NOGUEIRA JÚNIOR",
+    "ultimoStatus": {
+      "id": 141385,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141385",
+      "nome": "DUARTE NOGUEIRA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141385.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "DUARTE NOGUEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.duartenogueira@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1964-05-16",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Ribeirão Preto",
+    "escolaridade": null
+  },
+  "links": null
+}

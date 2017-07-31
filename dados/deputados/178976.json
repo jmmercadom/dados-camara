@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178976,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178976",
+    "nomeCivil": "BRUNO COVAS LOPES",
+    "ultimoStatus": {
+      "id": 178976,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178976",
+      "nome": "BRUNO COVAS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178976.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "BRUNO COVAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.brunocovas@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1980-04-07",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Santos",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

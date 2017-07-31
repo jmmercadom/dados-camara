@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74581,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581",
+    "nomeCivil": "GILMAR ALVES MACHADO",
+    "ultimoStatus": {
+      "id": 74581,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581",
+      "nome": "GILMAR MACHADO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74581.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "GILMAR MACHADO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.gilmarmachado@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Uberlândia/MG"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-11-06",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Cascalho Rico",
+    "escolaridade": null
+  },
+  "links": null
+}

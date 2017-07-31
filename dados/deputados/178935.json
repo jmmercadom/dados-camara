@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178935,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178935",
+    "nomeCivil": "VALDIR LUIZ ROSSONI",
+    "ultimoStatus": {
+      "id": 178935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178935",
+      "nome": "ROSSONI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178935.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "ROSSONI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rossoni@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-11-23",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Bituruna",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73696,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73696",
+    "nomeCivil": "ANGELA REGINA HEINZEN AMIN HELOU",
+    "ultimoStatus": {
+      "id": 73696,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73696",
+      "nome": "ANGELA AMIN",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "SC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73696.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ANGELA AMIN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.angelaamin@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1947-12-20",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SC",
+    "municipioNascimento": "Indaial",
+    "escolaridade": null
+  },
+  "links": null
+}

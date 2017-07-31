@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141344,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141344",
+    "nomeCivil": "FERNANDO BARRANCOS CHUCRE",
+    "ultimoStatus": {
+      "id": 141344,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141344",
+      "nome": "FERNANDO CHUCRE",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141344.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "FERNANDO CHUCRE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fernandochucre@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-08-02",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Itajubá",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73534,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73534",
+    "nomeCivil": "JOÃO PAULO CUNHA",
+    "ultimoStatus": {
+      "id": 73534,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73534",
+      "nome": "JOÃO PAULO CUNHA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73534.jpg",
+      "data": "2014-02-07",
+      "nomeEleitoral": "JOÃO PAULO CUNHA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joaopaulocunha@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "apresentada em 07/02/2014, às 20h21, lida em Plenário no dia 10/02/2014, às 14h01min37."
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-06-06",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Caraguatatuba",
+    "escolaridade": null
+  },
+  "links": null
+}

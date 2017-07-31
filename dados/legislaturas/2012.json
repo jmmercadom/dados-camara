@@ -1,0 +1,24 @@
+{
+  "dados": [
+    {
+      "id": 54,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/legislaturas/54",
+      "dataInicio": "2011-02-01",
+      "dataFim": "2015-01-31"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/legislaturas?data=2012-01-01&ordem=ASC&ordenarPor=id"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/legislaturas/?data=2012-01-01&pagina=1&itens=15"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/legislaturas/?data=2012-01-01&pagina=1&itens=15"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dados": {
+    "id": 80920,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80920",
+    "nomeCivil": "JOSÉ LUIZ DE FRANÇA PENNA",
+    "ultimoStatus": {
+      "id": 80920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80920",
+      "nome": "PENNA",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/80920.jpg",
+      "data": "2015-05-21",
+      "nomeEleitoral": "PENNA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.penna@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [
+      "http://twitter.com/deputado_penna",
+      "http://www.facebook.com/profile.php?id=100002343750959"
+    ],
+    "dataNascimento": "1945-12-27",
+    "dataFalecimento": null,
+    "ufNascimento": "RN",
+    "municipioNascimento": "Natal",
+    "escolaridade": null
+  },
+  "links": null
+}

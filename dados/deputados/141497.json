@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141497,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141497",
+    "nomeCivil": "MÁRCIO LUIZ FRANÇA GOMES",
+    "ultimoStatus": {
+      "id": 141497,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141497",
+      "nome": "MÁRCIO FRANÇA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141497.jpg",
+      "data": "2015-01-01",
+      "nomeEleitoral": "MÁRCIO FRANÇA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marciofranca@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Toma posse no mandato de Vice-Governador do Estado de São Paulo"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-06-23",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Santos",
+    "escolaridade": null
+  },
+  "links": null
+}

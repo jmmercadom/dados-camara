@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74087,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74087",
+    "nomeCivil": "VICTOR PIRES FRANCO NETO",
+    "ultimoStatus": {
+      "id": 74087,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74087",
+      "nome": "VIC PIRES FRANCO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74087.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "VIC PIRES FRANCO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.vicpiresfranco@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-06-18",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PA",
+    "municipioNascimento": "Belém",
+    "escolaridade": null
+  },
+  "links": null
+}

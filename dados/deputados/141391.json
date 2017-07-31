@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141391,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+    "nomeCivil": "ARNALDO CALIL PEREIRA JARDIM",
+    "ultimoStatus": {
+      "id": 141391,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141391",
+      "nome": "ARNALDO JARDIM",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "ARNALDO JARDIM",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.arnaldojardim@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-05-08",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Altinópolis",
+    "escolaridade": null
+  },
+  "links": null
+}

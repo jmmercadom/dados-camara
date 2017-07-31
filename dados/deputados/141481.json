@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141481,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141481",
+    "nomeCivil": "LEANDRO JOSÉ MENDES SAMPAIO FERNANDES",
+    "ultimoStatus": {
+      "id": 141481,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141481",
+      "nome": "LEANDRO SAMPAIO",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141481.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "LEANDRO SAMPAIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.leandrosampaio@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-10-25",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Petrópolis",
+    "escolaridade": null
+  },
+  "links": null
+}

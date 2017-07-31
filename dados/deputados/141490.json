@@ -1,0 +1,44 @@
+{
+  "dados": {
+    "id": 141490,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141490",
+    "nomeCivil": "MANOEL ALVES DA SILVA JUNIOR",
+    "ultimoStatus": {
+      "id": 141490,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141490",
+      "nome": "MANOEL JUNIOR",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PB",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141490.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "MANOEL JUNIOR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.manoeljunior@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [
+      "http://twitter.com/depmanoeljunior",
+      "http://twitter.com/depmanoeljunior",
+      "http://www.facebook.com/pages/Deputado-Manoel-Junior/304776446238762"
+    ],
+    "dataNascimento": "1964-02-21",
+    "dataFalecimento": null,
+    "ufNascimento": "PB",
+    "municipioNascimento": "Pedras de Fogo",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 191684,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191684",
+    "nomeCivil": "ROSANGELA APARECIDA DA SILVA BARROS",
+    "ultimoStatus": {
+      "id": 191684,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191684",
+      "nome": "ROSÂNGELA CURADO",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/191684.jpg",
+      "data": "2015-09-09",
+      "nomeEleitoral": "ROSÂNGELA CURADO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rosangelacurado@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-12-11",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Santos",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

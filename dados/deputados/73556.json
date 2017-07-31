@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73556,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73556",
+    "nomeCivil": "REGIS FERNANDES DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 73556,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73556",
+      "nome": "REGIS DE OLIVEIRA",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73556.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "REGIS DE OLIVEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.regisdeoliveira@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-09-19",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "Monte Aprazível",
+    "escolaridade": null
+  },
+  "links": null
+}

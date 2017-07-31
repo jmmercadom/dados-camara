@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141514,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141514",
+    "nomeCivil": "OSMAR RIBEIRO DE ALMEIDA JÚNIOR",
+    "ultimoStatus": {
+      "id": 141514,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141514",
+      "nome": "OSMAR JÚNIOR",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "PI",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141514.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "OSMAR JÚNIOR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.osmarjunior@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-10-08",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

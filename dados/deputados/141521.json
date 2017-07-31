@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141521,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141521",
+    "nomeCivil": "PAULO ROBERTO MANOEL PEREIRA",
+    "ultimoStatus": {
+      "id": 141521,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141521",
+      "nome": "PAULO ROBERTO PEREIRA",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "RS",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141521.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "PAULO ROBERTO PEREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.paulorobertopereira@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-12-10",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Caetano do Sul",
+    "escolaridade": null
+  },
+  "links": null
+}

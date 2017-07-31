@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 167614,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167614",
+    "nomeCivil": "SEVERINO DE SOUZA SILVA",
+    "ultimoStatus": {
+      "id": 167614,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167614",
+      "nome": "SEVERINO NINHO",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/167614.jpg",
+      "data": "2016-05-17",
+      "nomeEleitoral": "SEVERINO NINHO",
+      "gabinete": {
+        "nome": "314",
+        "predio": "4",
+        "sala": "314",
+        "andar": "3",
+        "telefone": "3215-5314",
+        "email": "dep.severinoninho@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-03-14",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Igarassu",
+    "escolaridade": null
+  },
+  "links": null
+}

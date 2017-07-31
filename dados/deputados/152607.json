@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 152607,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152607",
+    "nomeCivil": "JOSÉ VIEIRA LINS",
+    "ultimoStatus": {
+      "id": 152607,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152607",
+      "nome": "ZÉ VIEIRA",
+      "siglaPartido": "PROS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/152607.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ZÉ VIEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.zevieira@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1934-07-30",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PB",
+    "municipioNascimento": "Sousa",
+    "escolaridade": null
+  },
+  "links": null
+}

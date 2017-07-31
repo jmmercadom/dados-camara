@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141388,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141388",
+    "nomeCivil": "ANTONIO JOSÉ CASTELO BRANCO MEDEIROS",
+    "ultimoStatus": {
+      "id": 141388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141388",
+      "nome": "ANTONIO JOSÉ MEDEIROS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "PI",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141388.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ANTONIO JOSÉ MEDEIROS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.antoniojosemedeiros@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-05-16",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PI",
+    "municipioNascimento": "Teresina",
+    "escolaridade": null
+  },
+  "links": null
+}

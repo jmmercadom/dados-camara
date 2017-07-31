@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73935,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73935",
+    "nomeCivil": "DARCY HUMBERTO MICHILES",
+    "ultimoStatus": {
+      "id": 73935,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73935",
+      "nome": "HUMBERTO MICHILES",
+      "siglaPartido": "PR*",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36877",
+      "siglaUf": "AM",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73935.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "HUMBERTO MICHILES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.humbertomichiles@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-12-14",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

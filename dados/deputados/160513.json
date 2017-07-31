@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160513,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160513",
+    "nomeCivil": "LUCIANO FERNANDES MOREIRA",
+    "ultimoStatus": {
+      "id": 160513,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160513",
+      "nome": "LUCIANO MOREIRA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160513.jpg",
+      "data": "2011-06-16",
+      "nomeEleitoral": "LUCIANO MOREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.lucianomoreira@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-07-29",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Uruoca",
+    "escolaridade": null
+  },
+  "links": null
+}

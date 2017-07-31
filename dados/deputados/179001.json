@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 179001,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179001",
+    "nomeCivil": "MARCIO DELLA VALLE BIOLCHI",
+    "ultimoStatus": {
+      "id": 179001,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179001",
+      "nome": "MÁRCIO BIOLCHI",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/179001.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "MÁRCIO BIOLCHI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marciobiolchi@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1979-05-23",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "Carazinho",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

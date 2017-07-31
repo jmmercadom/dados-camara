@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74158,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74158",
+    "nomeCivil": "MÁRIO LÚCIO HERINGER",
+    "ultimoStatus": {
+      "id": 74158,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74158",
+      "nome": "MÁRIO HERINGER",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "MÁRIO HERINGER",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marioheringer@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-09-30",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Manhumirim",
+    "escolaridade": null
+  },
+  "links": null
+}

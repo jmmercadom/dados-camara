@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141870,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141870",
+    "nomeCivil": "VILSON LUIZ COVATTI",
+    "ultimoStatus": {
+      "id": 141870,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141870",
+      "nome": "VILSON COVATTI",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141870.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "VILSON COVATTI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.vilsoncovatti@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1957-01-26",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Palmitinho",
+    "escolaridade": null
+  },
+  "links": null
+}

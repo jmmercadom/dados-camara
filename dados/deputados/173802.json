@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 173802,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/173802",
+    "nomeCivil": "GOIACIARA TAVARES CRUZ",
+    "ultimoStatus": {
+      "id": 173802,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/173802",
+      "nome": "GOIACIARA CRUZ",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "TO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/173802.jpg",
+      "data": "2013-10-04",
+      "nomeEleitoral": "GOIACIARA CRUZ",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.goiaciaracruz@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-10-07",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

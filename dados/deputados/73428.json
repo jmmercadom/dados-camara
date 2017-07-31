@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73428,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73428",
+    "nomeCivil": "JOSÉ ALDO REBELO FIGUEIREDO",
+    "ultimoStatus": {
+      "id": 73428,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73428",
+      "nome": "ALDO REBELO",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73428.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ALDO REBELO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.aldorebelo@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-02-23",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "AL",
+    "municipioNascimento": "Viçosa",
+    "escolaridade": null
+  },
+  "links": null
+}

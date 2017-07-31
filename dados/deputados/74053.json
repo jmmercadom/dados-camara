@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74053,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74053",
+    "nomeCivil": "JOSÉ HELENO DA SILVA",
+    "ultimoStatus": {
+      "id": 74053,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74053",
+      "nome": "HELENO SILVA",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "SE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74053.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "HELENO SILVA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.helenosilva@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Canindé de São Francisco/SE"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1967-07-22",
+    "dataFalecimento": null,
+    "ufNascimento": "SE",
+    "municipioNascimento": "Monte Alegre de Sergipe",
+    "escolaridade": null
+  },
+  "links": null
+}

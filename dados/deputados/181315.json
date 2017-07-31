@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 181315,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/181315",
+    "nomeCivil": "MARCOS DA ROCHA MENDES",
+    "ultimoStatus": {
+      "id": 181315,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/181315",
+      "nome": "MARQUINHO MENDES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/181315.jpg",
+      "data": "2015-02-10",
+      "nomeEleitoral": "MARQUINHO MENDES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marquinhomendes@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-02-27",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

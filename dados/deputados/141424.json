@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141424,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141424",
+    "nomeCivil": "ELISMAR FERNANDES PRADO",
+    "ultimoStatus": {
+      "id": 141424,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141424",
+      "nome": "ELISMAR PRADO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141424.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ELISMAR PRADO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.elismarprado@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-08-12",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Uberlândia",
+    "escolaridade": null
+  },
+  "links": null
+}

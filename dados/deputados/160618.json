@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160618,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160618",
+    "nomeCivil": "EDSON SAMPAIO PIMENTA",
+    "ultimoStatus": {
+      "id": 160618,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160618",
+      "nome": "EDSON PIMENTA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160618.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "EDSON PIMENTA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.edsonpimenta@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-12-11",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Esplanada",
+    "escolaridade": null
+  },
+  "links": null
+}

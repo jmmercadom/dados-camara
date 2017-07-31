@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160648,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160648",
+    "nomeCivil": "RAIMUNDO COIMBRA JÚNIOR",
+    "ultimoStatus": {
+      "id": 160648,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160648",
+      "nome": "JÚNIOR COIMBRA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "TO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160648.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JÚNIOR COIMBRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.juniorcoimbra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1965-03-28",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "TO",
+    "municipioNascimento": "Filadélfia",
+    "escolaridade": null
+  },
+  "links": null
+}

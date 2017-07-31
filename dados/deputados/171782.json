@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 171782,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171782",
+    "nomeCivil": "ERONILDO BRAGA BEZERRA",
+    "ultimoStatus": {
+      "id": 171782,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171782",
+      "nome": "ERON BEZERRA",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "AM",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171782.jpg",
+      "data": "2013-11-27",
+      "nomeEleitoral": "ERON BEZERRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eronbezerra@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-02-09",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

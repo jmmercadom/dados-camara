@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160563,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160563",
+    "nomeCivil": "ONOFRE SANTO AGUSTINI",
+    "ultimoStatus": {
+      "id": 160563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160563",
+      "nome": "ONOFRE SANTO AGOSTINI",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "SC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160563.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ONOFRE SANTO AGOSTINI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.onofresantoagostini@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1940-03-22",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Vacaria",
+    "escolaridade": null
+  },
+  "links": null
+}

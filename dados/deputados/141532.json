@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141532,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141532",
+    "nomeCivil": "RODRIGO SANTOS DA ROCHA LOURES",
+    "ultimoStatus": {
+      "id": 141532,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141532",
+      "nome": "ROCHA LOURES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141532.jpg",
+      "data": "2017-03-08",
+      "nomeEleitoral": "ROCHA LOURES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rochaloures@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-11-13",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Curitiba",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

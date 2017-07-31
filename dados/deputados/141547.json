@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141547,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141547",
+    "nomeCivil": "SOLANGE PEREIRA DE ALMEIDA",
+    "ultimoStatus": {
+      "id": 141547,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141547",
+      "nome": "SOLANGE ALMEIDA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141547.jpg",
+      "data": "2013-03-08",
+      "nomeEleitoral": "SOLANGE ALMEIDA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.solangealmeida@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Chefe da Casa Civil do Rio de Janeiro/RJ"
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-02-26",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

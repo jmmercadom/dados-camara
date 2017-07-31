@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74742,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74742",
+    "nomeCivil": "LAEL VIEIRA VARELLA",
+    "ultimoStatus": {
+      "id": 74742,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74742",
+      "nome": "LAEL VARELLA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74742.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "LAEL VARELLA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.laelvarella@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1939-02-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Muriaé",
+    "escolaridade": null
+  },
+  "links": null
+}

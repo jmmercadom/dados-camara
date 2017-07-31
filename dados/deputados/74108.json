@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74108,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74108",
+    "nomeCivil": "NÁRCIO RODRIGUES DA SILVEIRA",
+    "ultimoStatus": {
+      "id": 74108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74108",
+      "nome": "NARCIO RODRIGUES",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74108.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "NARCIO RODRIGUES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.narciorodrigues@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-04-23",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Frutal",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141459,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141459",
+    "nomeCivil": "JOÃO DA SILVA MAIA",
+    "ultimoStatus": {
+      "id": 141459,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141459",
+      "nome": "JOÃO MAIA",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RN",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JOÃO MAIA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joaomaia@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-09-20",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PB",
+    "municipioNascimento": "Brejo do Cruz",
+    "escolaridade": null
+  },
+  "links": null
+}

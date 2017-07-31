@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74417,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74417",
+    "nomeCivil": "FERNANDO DANTAS FERRO",
+    "ultimoStatus": {
+      "id": 74417,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74417",
+      "nome": "FERNANDO FERRO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "PE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74417.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "FERNANDO FERRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fernandoferro@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1951-09-05",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "Bom Conselho",
+    "escolaridade": null
+  },
+  "links": null
+}

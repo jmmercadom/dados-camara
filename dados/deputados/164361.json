@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 164361,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164361",
+    "nomeCivil": "MARINA PIGNATARO SANT'ANNA",
+    "ultimoStatus": {
+      "id": 164361,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164361",
+      "nome": "MARINA SANTANNA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "GO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/164361.jpg",
+      "data": "2013-12-30",
+      "nomeEleitoral": "MARINA SANTANNA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marinasantanna@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-10-14",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73904,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73904",
+    "nomeCivil": "JORGE ALBERTO PORTANOVA MENDES RIBEIRO FILHO",
+    "ultimoStatus": {
+      "id": 73904,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73904",
+      "nome": "MENDES RIBEIRO FILHO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73904.jpg",
+      "data": "2014-05-08",
+      "nomeEleitoral": "MENDES RIBEIRO FILHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.mendesribeirofilho@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-12-27",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "Porto Alegre",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141468,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141468",
+    "nomeCivil": "JOSÉ IRAN BARBOSA FILHO",
+    "ultimoStatus": {
+      "id": 141468,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141468",
+      "nome": "IRAN BARBOSA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141468.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "IRAN BARBOSA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.iranbarbosa@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-06-21",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SE",
+    "municipioNascimento": "Aracaju",
+    "escolaridade": null
+  },
+  "links": null
+}

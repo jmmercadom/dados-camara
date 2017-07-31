@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74433,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74433",
+    "nomeCivil": "ROBERTO MAGALHÃES MELO",
+    "ultimoStatus": {
+      "id": 74433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74433",
+      "nome": "ROBERTO MAGALHÃES",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74433.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ROBERTO MAGALHÃES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.robertomagalhaes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1933-07-17",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RN",
+    "municipioNascimento": "Canguaretama",
+    "escolaridade": null
+  },
+  "links": null
+}

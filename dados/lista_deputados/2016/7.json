@@ -1,0 +1,32 @@
+{
+  "dados": [
+    {
+      "id": 178949,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178949",
+      "nome": "ZENAIDE MAIA",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RN",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178949.jpg"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=55&itens=100&ordem=ASC&ordenarPor=nome&pagina=7"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=7&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=6&itens=100"
+    }
+  ]
+}

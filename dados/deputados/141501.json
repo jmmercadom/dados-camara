@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141501,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141501",
+    "nomeCivil": "MARIA APARECIDA DIOGO BRAGA",
+    "ultimoStatus": {
+      "id": 141501,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141501",
+      "nome": "CIDA DIOGO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141501.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "CIDA DIOGO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.cidadiogo@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-01-20",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

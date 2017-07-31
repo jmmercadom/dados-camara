@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73557,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73557",
+    "nomeCivil": "RICARDO NAGIB IZAR",
+    "ultimoStatus": {
+      "id": 73557,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73557",
+      "nome": "RICARDO IZAR",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73557.jpg",
+      "data": "2008-05-02",
+      "nomeEleitoral": "RICARDO IZAR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ricardoizar@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1938-07-28",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

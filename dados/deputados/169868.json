@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 169868,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/169868",
+    "nomeCivil": "RAIMUNDO VALRY DE MORAIS",
+    "ultimoStatus": {
+      "id": 169868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/169868",
+      "nome": "VALRY MORAIS",
+      "siglaPartido": "PRP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+      "siglaUf": "PA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/169868.jpg",
+      "data": "2012-10-31",
+      "nomeEleitoral": "VALRY MORAIS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.valrymorais@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-08-15",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

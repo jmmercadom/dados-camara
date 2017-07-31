@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73612,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73612",
+    "nomeCivil": "PAULO JOSÉ ALVES RATTES",
+    "ultimoStatus": {
+      "id": 73612,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73612",
+      "nome": "PAULO RATTES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73612.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "PAULO RATTES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.paulorattes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1933-12-21",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Petrópolis",
+    "escolaridade": null
+  },
+  "links": null
+}

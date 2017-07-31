@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74542,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74542",
+    "nomeCivil": "FELIX DE ALMEIDA MENDONÇA",
+    "ultimoStatus": {
+      "id": 74542,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74542",
+      "nome": "FÉLIX MENDONÇA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "BA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74542.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "FÉLIX MENDONÇA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.felixmendonca@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1928-03-23",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Conceição do Almeida",
+    "escolaridade": null
+  },
+  "links": null
+}

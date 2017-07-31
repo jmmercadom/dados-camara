@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178859,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178859",
+    "nomeCivil": "MOEMA ISABEL PASSOS GRAMACHO",
+    "ultimoStatus": {
+      "id": 178859,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178859",
+      "nome": "MOEMA GRAMACHO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178859.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "MOEMA GRAMACHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.moemagramacho@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-07-04",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

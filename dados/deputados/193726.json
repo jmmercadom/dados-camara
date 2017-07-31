@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 193726,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193726",
+    "nomeCivil": "PAULO EDUARDO LIMA MARTINS",
+    "ultimoStatus": {
+      "id": 193726,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193726",
+      "nome": "PAULO MARTINS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193726.jpg",
+      "data": "2016-03-17",
+      "nomeEleitoral": "PAULO MARTINS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.paulomartins@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1981-04-20",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Presidente Venceslau",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

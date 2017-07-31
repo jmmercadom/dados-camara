@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141448,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141448",
+    "nomeCivil": "HOMERO ALVES PEREIRA",
+    "ultimoStatus": {
+      "id": 141448,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141448",
+      "nome": "HOMERO PEREIRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "MT",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141448.jpg",
+      "data": "2013-10-20",
+      "nomeEleitoral": "HOMERO PEREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.homeropereira@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-05-25",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Adamantina",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73883,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73883",
+    "nomeCivil": "PAULO ROBERTO BARRETO BORNHAUSEN",
+    "ultimoStatus": {
+      "id": 73883,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73883",
+      "nome": "PAULO BORNHAUSEN",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73883.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "PAULO BORNHAUSEN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.paulobornhausen@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-09-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SC",
+    "municipioNascimento": "Blumenau",
+    "escolaridade": null
+  },
+  "links": null
+}

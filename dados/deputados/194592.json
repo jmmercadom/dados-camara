@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 194592,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194592",
+    "nomeCivil": "ILDON MARQUES DE SOUZA",
+    "ultimoStatus": {
+      "id": 194592,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194592",
+      "nome": "ILDON MARQUES",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/194592.jpg",
+      "data": "2016-06-21",
+      "nomeEleitoral": "ILDON MARQUES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ildonmarques@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1945-10-20",
+    "dataFalecimento": null,
+    "ufNascimento": "PB",
+    "municipioNascimento": "Malta",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

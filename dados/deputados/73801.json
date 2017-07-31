@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73801,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73801",
+    "nomeCivil": "RENILDO VASCONCELOS CALHEIROS",
+    "ultimoStatus": {
+      "id": 73801,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73801",
+      "nome": "RENILDO CALHEIROS",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "PE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73801.jpg",
+      "data": "2008-12-31",
+      "nomeEleitoral": "RENILDO CALHEIROS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.renildocalheiros@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Olinda"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-04-20",
+    "dataFalecimento": null,
+    "ufNascimento": "AL",
+    "municipioNascimento": "Murici",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141438,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141438",
+    "nomeCivil": "FRANCISCO EDNALDO PRACIANO",
+    "ultimoStatus": {
+      "id": 141438,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141438",
+      "nome": "FRANCISCO PRACIANO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "AM",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141438.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "FRANCISCO PRACIANO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.franciscopraciano@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-02-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "CE",
+    "municipioNascimento": "Itapipoca",
+    "escolaridade": null
+  },
+  "links": null
+}

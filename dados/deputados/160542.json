@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160542,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160542",
+    "nomeCivil": "MÁRCIO COSTA MACÊDO",
+    "ultimoStatus": {
+      "id": 160542,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160542",
+      "nome": "MÁRCIO MACÊDO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160542.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "MÁRCIO MACÊDO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marciomacedo@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1970-09-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Esplanada",
+    "escolaridade": null
+  },
+  "links": null
+}

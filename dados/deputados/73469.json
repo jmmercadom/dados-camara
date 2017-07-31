@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73469,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73469",
+    "nomeCivil": "CARLITO MERSS",
+    "ultimoStatus": {
+      "id": 73469,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73469",
+      "nome": "CARLITO MERSS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73469.jpg",
+      "data": "2008-12-31",
+      "nomeEleitoral": "CARLITO MERSS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.carlitomerss@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Joinville"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-09-16",
+    "dataFalecimento": null,
+    "ufNascimento": "SC",
+    "municipioNascimento": "Porto União",
+    "escolaridade": null
+  },
+  "links": null
+}

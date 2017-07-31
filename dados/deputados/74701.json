@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74701,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74701",
+    "nomeCivil": "ANTONIO PALOCCI FILHO",
+    "ultimoStatus": {
+      "id": 74701,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74701",
+      "nome": "ANTONIO PALOCCI",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74701.jpg",
+      "data": "2011-01-01",
+      "nomeEleitoral": "ANTONIO PALOCCI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.antoniopalocci@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-10-04",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Ribeirão Preto",
+    "escolaridade": null
+  },
+  "links": null
+}

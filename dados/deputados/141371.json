@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141371,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141371",
+    "nomeCivil": "ADILSON SOARES",
+    "ultimoStatus": {
+      "id": 141371,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141371",
+      "nome": "DR. ADILSON SOARES",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141371.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DR. ADILSON SOARES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.dr.adilsonsoares@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1940-09-11",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "ES",
+    "municipioNascimento": "Muniz Freire",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 168253,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/168253",
+    "nomeCivil": "JOSE CARLOS DE JESUS RODRIGUES",
+    "ultimoStatus": {
+      "id": 168253,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/168253",
+      "nome": "ZE CARLOS DA PESCA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/168253.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ZE CARLOS DA PESCA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.zecarlosdapesca@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-02-08",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

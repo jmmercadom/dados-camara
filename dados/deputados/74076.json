@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74076,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74076",
+    "nomeCivil": "GERSON DOS SANTOS PERES",
+    "ultimoStatus": {
+      "id": 74076,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74076",
+      "nome": "GERSON PERES",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "PA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74076.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "GERSON PERES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.gersonperes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1931-05-02",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PA",
+    "municipioNascimento": "Cametá",
+    "escolaridade": null
+  },
+  "links": null
+}

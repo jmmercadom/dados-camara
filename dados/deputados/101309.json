@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 101309,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/101309",
+    "nomeCivil": "DAVIDSON DE MAGALHÃES SANTOS",
+    "ultimoStatus": {
+      "id": 101309,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/101309",
+      "nome": "DAVIDSON MAGALHÃES",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/101309.jpg",
+      "data": "2015-02-04",
+      "nomeEleitoral": "DAVIDSON MAGALHÃES",
+      "gabinete": {
+        "nome": "642",
+        "predio": "4",
+        "sala": "642",
+        "andar": "6",
+        "telefone": "3215-5642",
+        "email": "dep.davidsonmagalhaes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-11-07",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Itabuna",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

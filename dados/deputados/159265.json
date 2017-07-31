@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 159265,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159265",
+    "nomeCivil": "GISELA ROMARIZ SEQUEIRA",
+    "ultimoStatus": {
+      "id": 159265,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159265",
+      "nome": "GISELA SEQUEIRA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/159265.jpg",
+      "data": "2011-01-26",
+      "nomeEleitoral": "GISELA SEQUEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.giselasequeira@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-01-24",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

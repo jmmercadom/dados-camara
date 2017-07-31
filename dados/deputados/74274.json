@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74274,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74274",
+    "nomeCivil": "JOSÉ EDUARDO MARTINS CARDOZO",
+    "ultimoStatus": {
+      "id": 74274,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74274",
+      "nome": "JOSÉ EDUARDO CARDOZO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74274.jpg",
+      "data": "2011-01-01",
+      "nomeEleitoral": "JOSÉ EDUARDO CARDOZO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joseeduardocardozo@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Ministro da Justiça"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-04-18",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

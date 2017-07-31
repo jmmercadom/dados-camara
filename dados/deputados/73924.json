@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73924,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73924",
+    "nomeCivil": "DAVID SAMUEL ALCOLUMBRE TOBELEM",
+    "ultimoStatus": {
+      "id": 73924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73924",
+      "nome": "DAVI ALCOLUMBRE",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "AP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73924.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DAVI ALCOLUMBRE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.davialcolumbre@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1977-06-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "AP",
+    "municipioNascimento": "Macapá",
+    "escolaridade": null
+  },
+  "links": null
+}

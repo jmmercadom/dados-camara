@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74363,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74363",
+    "nomeCivil": "MÁRCIO MIGUEL BITTAR",
+    "ultimoStatus": {
+      "id": 74363,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74363",
+      "nome": "MARCIO BITTAR",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "AC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74363.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "MARCIO BITTAR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marciobittar@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-06-28",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "Franca",
+    "escolaridade": null
+  },
+  "links": null
+}

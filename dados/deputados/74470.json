@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74470,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74470",
+    "nomeCivil": "MARCONDES IRAN BENEVIDES GADELHA",
+    "ultimoStatus": {
+      "id": 74470,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74470",
+      "nome": "MARCONDES GADELHA",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "PB",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74470.jpg",
+      "data": "2015-12-01",
+      "nomeEleitoral": "MARCONDES GADELHA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marcondesgadelha@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1943-06-23",
+    "dataFalecimento": null,
+    "ufNascimento": "PB",
+    "municipioNascimento": "Sousa",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

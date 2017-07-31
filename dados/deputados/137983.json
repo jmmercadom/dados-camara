@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 137983,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137983",
+    "nomeCivil": "FRANCISCO LUIZ ESCÓRCIO LIMA",
+    "ultimoStatus": {
+      "id": 137983,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137983",
+      "nome": "FRANCISCO ESCÓRCIO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/137983.jpg",
+      "data": "2014-09-02",
+      "nomeEleitoral": "FRANCISCO ESCÓRCIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.franciscoescorcio@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1949-07-18",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

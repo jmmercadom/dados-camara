@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141463,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141463",
+    "nomeCivil": "JOSÉ ABELARDO GUIMARÃES CAMARINHA",
+    "ultimoStatus": {
+      "id": 141463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141463",
+      "nome": "ABELARDO CAMARINHA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141463.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ABELARDO CAMARINHA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.abelardocamarinha@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-03-22",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São José do Rio Pardo",
+    "escolaridade": null
+  },
+  "links": null
+}

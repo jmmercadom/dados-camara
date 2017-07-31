@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160396,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160396",
+    "nomeCivil": "JOSÉ HUMBERTO SOARES",
+    "ultimoStatus": {
+      "id": 160396,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160396",
+      "nome": "JOSÉ HUMBERTO",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160396.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JOSÉ HUMBERTO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.josehumberto@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-10-29",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Patos de Minas",
+    "escolaridade": null
+  },
+  "links": null
+}

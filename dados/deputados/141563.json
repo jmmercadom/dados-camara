@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141563,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141563",
+    "nomeCivil": "WILLIAM BOSS WOO",
+    "ultimoStatus": {
+      "id": 141563,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141563",
+      "nome": "WILLIAM WOO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141563.jpg",
+      "data": "2015-02-09",
+      "nomeEleitoral": "WILLIAM WOO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.williamwoo@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1968-11-27",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

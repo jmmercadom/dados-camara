@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141523,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141523",
+    "nomeCivil": "RAUL JEAN LOUIS HENRY JÚNIOR",
+    "ultimoStatus": {
+      "id": 141523,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141523",
+      "nome": "RAUL HENRY",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141523.jpg",
+      "data": "2014-12-30",
+      "nomeEleitoral": "RAUL HENRY",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.raulhenry@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Tomará posse no mandato de Vice-Governador do Estado de Pernambuco"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1964-06-06",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

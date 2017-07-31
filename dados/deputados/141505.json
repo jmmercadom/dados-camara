@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141505,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141505",
+    "nomeCivil": "MARINA TERRA MAGGESSI DE SOUZA",
+    "ultimoStatus": {
+      "id": 141505,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141505",
+      "nome": "MARINA MAGGESSI",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141505.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "MARINA MAGGESSI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marinamaggessi@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-02-11",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

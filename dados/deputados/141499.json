@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141499,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141499",
+    "nomeCivil": "MARCOS ANTÔNIO RAMOS DA HORA",
+    "ultimoStatus": {
+      "id": 141499,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141499",
+      "nome": "MARCOS ANTONIO",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "PE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141499.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "MARCOS ANTONIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marcosantonio@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-11-02",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "São Lourenço da Mata",
+    "escolaridade": null
+  },
+  "links": null
+}

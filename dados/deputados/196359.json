@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 196359,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/196359",
+    "nomeCivil": "ADERMIS MARINI JUNIOR",
+    "ultimoStatus": {
+      "id": 196359,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/196359",
+      "nome": "ADÉRMIS MARINI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/196359.jpg",
+      "data": "2017-01-02",
+      "nomeEleitoral": "ADÉRMIS MARINI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.adermismarini@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1969-07-18",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Franca",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

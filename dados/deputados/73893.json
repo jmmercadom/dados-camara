@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73893,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73893",
+    "nomeCivil": "ENIO EGON BERGMANN BACCI",
+    "ultimoStatus": {
+      "id": 73893,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73893",
+      "nome": "ENIO BACCI",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73893.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ENIO BACCI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eniobacci@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-09-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Lajeado",
+    "escolaridade": null
+  },
+  "links": null
+}

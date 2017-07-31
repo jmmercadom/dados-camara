@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178996,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178996",
+    "nomeCivil": "GIOVANI BATISTA FELTES",
+    "ultimoStatus": {
+      "id": 178996,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178996",
+      "nome": "GIOVANI FELTES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178996.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "GIOVANI FELTES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.giovanifeltes@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1957-04-10",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "São Leopoldo",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

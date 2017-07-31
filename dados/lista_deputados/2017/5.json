@@ -1,0 +1,1026 @@
+{
+  "dados": [
+    {
+      "id": 178985,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178985",
+      "nome": "MIGUEL LOMBARDI",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178985.jpg"
+    },
+    {
+      "id": 74787,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74787",
+      "nome": "MILTON MONTI",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74787.jpg"
+    },
+    {
+      "id": 74862,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74862",
+      "nome": "MIRO TEIXEIRA",
+      "siglaPartido": "REDE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74862.jpg"
+    },
+    {
+      "id": 178895,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178895",
+      "nome": "MISAEL VARELLA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178895.jpg"
+    },
+    {
+      "id": 160561,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160561",
+      "nome": "MISSIONÁRIO JOSÉ OLIMPIO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160561.jpg"
+    },
+    {
+      "id": 178859,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178859",
+      "nome": "MOEMA GRAMACHO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178859.jpg"
+    },
+    {
+      "id": 195278,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195278",
+      "nome": "MOISÉS DINIZ",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "AC",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195278.jpg"
+    },
+    {
+      "id": 74457,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74457",
+      "nome": "MORONI TORGAN",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74457.jpg"
+    },
+    {
+      "id": 178997,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997",
+      "nome": "MOSES RODRIGUES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178997.jpg"
+    },
+    {
+      "id": 160567,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160567",
+      "nome": "NELSON MARCHEZAN JUNIOR",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160567.jpg"
+    },
+    {
+      "id": 73553,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73553",
+      "nome": "NELSON MARQUEZELLI",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73553.jpg"
+    },
+    {
+      "id": 73781,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73781",
+      "nome": "NELSON MEURER",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73781.jpg"
+    },
+    {
+      "id": 193069,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193069",
+      "nome": "NELSON NAHIM ",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193069.jpg"
+    },
+    {
+      "id": 160566,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160566",
+      "nome": "NELSON PADOVANI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160566.jpg"
+    },
+    {
+      "id": 74571,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74571",
+      "nome": "NELSON PELLEGRINO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74571.jpg"
+    },
+    {
+      "id": 178896,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178896",
+      "nome": "NEWTON CARDOSO JR",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178896.jpg"
+    },
+    {
+      "id": 74751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74751",
+      "nome": "NILMÁRIO MIRANDA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74751.jpg"
+    },
+    {
+      "id": 166401,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166401",
+      "nome": "NILSON LEITÃO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MT",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/166401.jpg"
+    },
+    {
+      "id": 74352,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74352",
+      "nome": "NILSON PINTO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74352.jpg"
+    },
+    {
+      "id": 178986,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178986",
+      "nome": "NILTO TATTO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178986.jpg"
+    },
+    {
+      "id": 74359,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74359",
+      "nome": "NILTON CAPIXABA",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "RO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74359.jpg"
+    },
+    {
+      "id": 194260,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194260",
+      "nome": "NIVALDO ALBUQUERQUE",
+      "siglaPartido": "PRP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+      "siglaUf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/194260.jpg"
+    },
+    {
+      "id": 66179,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66179",
+      "nome": "NORMA AYUB",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "ES",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/66179.jpg"
+    },
+    {
+      "id": 74159,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74159",
+      "nome": "ODAIR CUNHA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74159.jpg"
+    },
+    {
+      "id": 74752,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74752",
+      "nome": "ODELMO LEÃO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74752.jpg"
+    },
+    {
+      "id": 178868,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178868",
+      "nome": "ODORICO MONTEIRO",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178868.jpg"
+    },
+    {
+      "id": 74399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74399",
+      "nome": "ONYX LORENZONI",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74399.jpg"
+    },
+    {
+      "id": 178987,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178987",
+      "nome": "ORLANDO SILVA",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178987.jpg"
+    },
+    {
+      "id": 180545,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/180545",
+      "nome": "OSMAR BERTOLDI",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/180545.jpg"
+    },
+    {
+      "id": 73463,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73463",
+      "nome": "OSMAR SERRAGLIO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73463.jpg"
+    },
+    {
+      "id": 73692,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73692",
+      "nome": "OSMAR TERRA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73692.jpg"
+    },
+    {
+      "id": 141515,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141515",
+      "nome": "OTAVIO LEITE",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141515.jpg"
+    },
+    {
+      "id": 160556,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
+      "nome": "PADRE JOÃO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160556.jpg"
+    },
+    {
+      "id": 74319,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74319",
+      "nome": "PAES LANDIM",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "PI",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74319.jpg"
+    },
+    {
+      "id": 160642,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160642",
+      "nome": "PASTOR EURICO",
+      "siglaPartido": "PHS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160642.jpg"
+    },
+    {
+      "id": 193982,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193982",
+      "nome": "PASTOR LUCIANO BRAGA",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193982.jpg"
+    },
+    {
+      "id": 74160,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74160",
+      "nome": "PATRUS ANANIAS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74160.jpg"
+    },
+    {
+      "id": 74095,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74095",
+      "nome": "PAUDERNEY AVELINO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "AM",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74095.jpg"
+    },
+    {
+      "id": 171617,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171617",
+      "nome": "PAULÃO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171617.jpg"
+    },
+    {
+      "id": 141516,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141516",
+      "nome": "PAULO ABI-ACKEL",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141516.jpg"
+    },
+    {
+      "id": 178860,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178860",
+      "nome": "PAULO AZI",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178860.jpg"
+    },
+    {
+      "id": 74017,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74017",
+      "nome": "PAULO FEIJÓ",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74017.jpg"
+    },
+    {
+      "id": 160517,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160517",
+      "nome": "PAULO FOLETTO",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "ES",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160517.jpg"
+    },
+    {
+      "id": 160558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160558",
+      "nome": "PAULO FREIRE",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160558.jpg"
+    },
+    {
+      "id": 141517,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141517",
+      "nome": "PAULO HENRIQUE LUSTOSA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141517.jpg"
+    },
+    {
+      "id": 74574,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74574",
+      "nome": "PAULO MAGALHÃES",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74574.jpg"
+    },
+    {
+      "id": 132056,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132056",
+      "nome": "PAULO MALUF",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/132056.jpg"
+    },
+    {
+      "id": 193726,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193726",
+      "nome": "PAULO MARTINS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193726.jpg"
+    },
+    {
+      "id": 141518,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141518",
+      "nome": "PAULO PEREIRA DA SILVA",
+      "siglaPartido": "SD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141518.jpg"
+    },
+    {
+      "id": 74400,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74400",
+      "nome": "PAULO PIMENTA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74400.jpg"
+    },
+    {
+      "id": 141488,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+      "nome": "PAULO TEIXEIRA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141488.jpg"
+    },
+    {
+      "id": 74812,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74812",
+      "nome": "PEDRO CHAVES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "GO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74812.jpg"
+    },
+    {
+      "id": 178912,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178912",
+      "nome": "PEDRO CUNHA LIMA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PB",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178912.jpg"
+    },
+    {
+      "id": 74449,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74449",
+      "nome": "PEDRO FERNANDES",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74449.jpg"
+    },
+    {
+      "id": 122158,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122158",
+      "nome": "PEDRO PAULO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/122158.jpg"
+    },
+    {
+      "id": 160604,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160604",
+      "nome": "PEDRO UCZAI",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SC",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160604.jpg"
+    },
+    {
+      "id": 178844,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178844",
+      "nome": "PEDRO VILELA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178844.jpg"
+    },
+    {
+      "id": 80920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80920",
+      "nome": "PENNA",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/80920.jpg"
+    },
+    {
+      "id": 141445,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141445",
+      "nome": "PEPE VARGAS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141445.jpg"
+    },
+    {
+      "id": 195997,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195997",
+      "nome": "POLLYANA GAMA",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195997.jpg"
+    },
+    {
+      "id": 73486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73486",
+      "nome": "POMPEO DE MATTOS",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73486.jpg"
+    },
+    {
+      "id": 160601,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160601",
+      "nome": "PR. MARCO FELICIANO",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160601.jpg"
+    },
+    {
+      "id": 170673,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/170673",
+      "nome": "PROFESSOR SÉRGIO DE OLIVEIRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/170673.jpg"
+    },
+    {
+      "id": 148134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/148134",
+      "nome": "PROFESSOR VICTÓRIO GALLI",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "MT",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/148134.jpg"
+    },
+    {
+      "id": 160639,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160639",
+      "nome": "PROFESSORA DORINHA SEABRA REZENDE",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "TO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160639.jpg"
+    },
+    {
+      "id": 160641,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160641",
+      "nome": "PROFESSORA MARCIVANIA",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "AP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160641.jpg"
+    },
+    {
+      "id": 178951,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178951",
+      "nome": "RAFAEL MOTTA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "RN",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178951.jpg"
+    },
+    {
+      "id": 74216,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74216",
+      "nome": "RAIMUNDO GOMES DE MATOS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74216.jpg"
+    },
+    {
+      "id": 178998,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178998",
+      "nome": "RAQUEL MUNIZ",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178998.jpg"
+    },
+    {
+      "id": 74048,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74048",
+      "nome": "RAUL JUNGMANN",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74048.jpg"
+    },
+    {
+      "id": 74161,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161",
+      "nome": "REGINALDO LOPES",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74161.jpg"
+    },
+    {
+      "id": 73786,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73786",
+      "nome": "REINHOLD STEPHANES",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73786.jpg"
+    },
+    {
+      "id": 178925,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178925",
+      "nome": "REJANE DIAS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "PI",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178925.jpg"
+    },
+    {
+      "id": 178960,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178960",
+      "nome": "REMÍDIO MONAI",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178960.jpg"
+    },
+    {
+      "id": 178989,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178989",
+      "nome": "RENATA ABREU",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178989.jpg"
+    },
+    {
+      "id": 171620,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171620",
+      "nome": "RENATO ANDRADE",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171620.jpg"
+    },
+    {
+      "id": 141527,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141527",
+      "nome": "RENATO MOLLING",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141527.jpg"
+    },
+    {
+      "id": 160654,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160654",
+      "nome": "RENZO BRAZ",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160654.jpg"
+    },
+    {
+      "id": 73788,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73788",
+      "nome": "RICARDO BARROS",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73788.jpg"
+    },
+    {
+      "id": 195581,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195581",
+      "nome": "RICARDO BENTINHO",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195581.jpg"
+    },
+    {
+      "id": 160655,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160655",
+      "nome": "RICARDO IZAR",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160655.jpg"
+    },
+    {
+      "id": 178920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178920",
+      "nome": "RICARDO TEOBALDO",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178920.jpg"
+    },
+    {
+      "id": 141472,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141472",
+      "nome": "RICARDO TRIPOLI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141472.jpg"
+    },
+    {
+      "id": 152610,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152610",
+      "nome": "ROBERTO ALVES",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/152610.jpg"
+    },
+    {
+      "id": 73674,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73674",
+      "nome": "ROBERTO BALESTRA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "GO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73674.jpg"
+    },
+    {
+      "id": 141529,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141529",
+      "nome": "ROBERTO BRITTO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141529.jpg"
+    },
+    {
+      "id": 160653,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160653",
+      "nome": "ROBERTO DE LUCENA",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160653.jpg"
+    },
+    {
+      "id": 73805,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73805",
+      "nome": "ROBERTO FREIRE",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73805.jpg"
+    },
+    {
+      "id": 178995,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178995",
+      "nome": "ROBERTO GÓES",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "AP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178995.jpg"
+    },
+    {
+      "id": 178944,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178944",
+      "nome": "ROBERTO SALES",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178944.jpg"
+    },
+    {
+      "id": 160652,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160652",
+      "nome": "ROBERTO TEIXEIRA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160652.jpg"
+    },
+    {
+      "id": 91208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/91208",
+      "nome": "ROBINSON ALMEIDA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/91208.jpg"
+    },
+    {
+      "id": 178840,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178840",
+      "nome": "ROCHA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "AC",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178840.jpg"
+    },
+    {
+      "id": 141532,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141532",
+      "nome": "ROCHA LOURES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141532.jpg"
+    },
+    {
+      "id": 141531,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141531",
+      "nome": "RODRIGO DE CASTRO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141531.jpg"
+    },
+    {
+      "id": 88950,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/88950",
+      "nome": "RODRIGO GARCIA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/88950.jpg"
+    },
+    {
+      "id": 74693,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74693",
+      "nome": "RODRIGO MAIA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74693.jpg"
+    },
+    {
+      "id": 178926,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178926",
+      "nome": "RODRIGO MARTINS",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "PI",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178926.jpg"
+    },
+    {
+      "id": 178897,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178897",
+      "nome": "RODRIGO PACHECO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178897.jpg"
+    },
+    {
+      "id": 141535,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141535",
+      "nome": "ROGÉRIO MARINHO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "RN",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141535.jpg"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=55&itens=100&ordem=ASC&ordenarPor=nome&pagina=5"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=6&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=7&itens=100"
+    },
+    {
+      "rel": "previous",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/?idLegislatura=55&pagina=4&itens=100"
+    }
+  ]
+}

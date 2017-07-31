@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160564,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160564",
+    "nomeCivil": "OZANILDA GONDIM VITAL DO REGO",
+    "ultimoStatus": {
+      "id": 160564,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160564",
+      "nome": "NILDA GONDIM",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PB",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160564.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "NILDA GONDIM",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.nildagondim@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-03-30",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PB",
+    "municipioNascimento": "João Pessoa",
+    "escolaridade": null
+  },
+  "links": null
+}

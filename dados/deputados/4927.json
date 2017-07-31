@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 4927,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4927",
+    "nomeCivil": "JORGE DE FARIA MALULY",
+    "ultimoStatus": {
+      "id": 4927,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4927",
+      "nome": "JORGINHO MALULY",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/4927.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "JORGINHO MALULY",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jorginhomaluly@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1960-09-07",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

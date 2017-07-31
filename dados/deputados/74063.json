@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74063,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74063",
+    "nomeCivil": "LUIZ FERNANDO DE FABINHO ARAÚJO LIMA",
+    "ultimoStatus": {
+      "id": 74063,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74063",
+      "nome": "FERNANDO DE FABINHO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "BA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74063.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "FERNANDO DE FABINHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fernandodefabinho@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1957-11-11",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Feira de Santana",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74491,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74491",
+    "nomeCivil": "JOSÉ NAZARENO CARDEAL FONTELES",
+    "ultimoStatus": {
+      "id": 74491,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74491",
+      "nome": "NAZARENO FONTELES",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "PI",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74491.jpg",
+      "data": "2014-04-03",
+      "nomeEleitoral": "NAZARENO FONTELES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.nazarenofonteles@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-05-04",
+    "dataFalecimento": null,
+    "ufNascimento": "PI",
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

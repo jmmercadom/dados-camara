@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 146949,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/146949",
+    "nomeCivil": "ROSEANE CAVALCANTE DE FREITAS ESTRELA",
+    "ultimoStatus": {
+      "id": 146949,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/146949",
+      "nome": "ROSINHA DA ADEFAL",
+      "siglaPartido": "PTdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847",
+      "siglaUf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/146949.jpg",
+      "data": "2016-10-17",
+      "nomeEleitoral": "ROSINHA DA ADEFAL",
+      "gabinete": {
+        "nome": "412",
+        "predio": "4",
+        "sala": "412",
+        "andar": "4",
+        "telefone": "3215-5412",
+        "email": "dep.rosinhadaadefal@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1973-04-22",
+    "dataFalecimento": null,
+    "ufNascimento": "AL",
+    "municipioNascimento": "Maceió",
+    "escolaridade": null
+  },
+  "links": null
+}

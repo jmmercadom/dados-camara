@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160668,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160668",
+    "nomeCivil": "PAULO CESAR JUSTO QUARTIERO",
+    "ultimoStatus": {
+      "id": 160668,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160668",
+      "nome": "PAULO CESAR QUARTIERO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "RR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160668.jpg",
+      "data": "2014-12-30",
+      "nomeEleitoral": "PAULO CESAR QUARTIERO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.paulocesarquartiero@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Tomará posse no mandato de Vice-Governador do Estado de Roraima"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-07-16",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "Torres",
+    "escolaridade": null
+  },
+  "links": null
+}

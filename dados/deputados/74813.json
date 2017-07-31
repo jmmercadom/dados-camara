@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74813,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74813",
+    "nomeCivil": "RONALDO RAMOS CAIADO",
+    "ultimoStatus": {
+      "id": 74813,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74813",
+      "nome": "RONALDO CAIADO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "GO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74813.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "RONALDO CAIADO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ronaldocaiado@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1949-09-25",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "GO",
+    "municipioNascimento": "Anápolis",
+    "escolaridade": null
+  },
+  "links": null
+}

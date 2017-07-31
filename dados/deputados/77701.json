@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 77701,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/77701",
+    "nomeCivil": "JACKSON BARRETO DE LIMA",
+    "ultimoStatus": {
+      "id": 77701,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/77701",
+      "nome": "JACKSON BARRETO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "SE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/77701.jpg",
+      "data": "2010-12-31",
+      "nomeEleitoral": "JACKSON BARRETO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jacksonbarreto@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Vice-Governador"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-05-06",
+    "dataFalecimento": null,
+    "ufNascimento": "SE",
+    "municipioNascimento": "Santa Rosa de Lima",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74634,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74634",
+    "nomeCivil": "MARCOS ANTONIO MEDRADO",
+    "ultimoStatus": {
+      "id": 74634,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74634",
+      "nome": "MARCOS MEDRADO",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74634.jpg",
+      "data": "2017-06-27",
+      "nomeEleitoral": "MARCOS MEDRADO",
+      "gabinete": {
+        "nome": "618",
+        "predio": "4",
+        "sala": "618",
+        "andar": "6",
+        "telefone": "3215-5618",
+        "email": "dep.marcosmedrado@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-06-30",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": null
+  },
+  "links": null
+}

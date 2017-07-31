@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 91208,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/91208",
+    "nomeCivil": "ROBINSON SANTOS ALMEIDA",
+    "ultimoStatus": {
+      "id": 91208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/91208",
+      "nome": "ROBINSON ALMEIDA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/91208.jpg",
+      "data": "2017-01-25",
+      "nomeEleitoral": "ROBINSON ALMEIDA",
+      "gabinete": {
+        "nome": "576",
+        "predio": "3",
+        "sala": "576",
+        "andar": null,
+        "telefone": "3215-5576",
+        "email": "dep.robinsonalmeida@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1965-03-16",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Jequié",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 152865,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152865",
+    "nomeCivil": "RODRIGO BETHLEM FERNANDES",
+    "ultimoStatus": {
+      "id": 152865,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152865",
+      "nome": "RODRIGO BETHLEM",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/152865.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "RODRIGO BETHLEM",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rodrigobethlem@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1971-02-15",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

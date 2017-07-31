@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141373,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141373",
+    "nomeCivil": "ALBANO DO PRADO PIMENTEL FRANCO",
+    "ultimoStatus": {
+      "id": 141373,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141373",
+      "nome": "ALBANO FRANCO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141373.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ALBANO FRANCO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.albanofranco@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1940-11-22",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SE",
+    "municipioNascimento": "Aracaju",
+    "escolaridade": null
+  },
+  "links": null
+}

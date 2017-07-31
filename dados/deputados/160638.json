@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160638,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160638",
+    "nomeCivil": "JOSELI ÂNGELO AGNOLIN",
+    "ultimoStatus": {
+      "id": 160638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160638",
+      "nome": "ÂNGELO AGNOLIN",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "TO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160638.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ÂNGELO AGNOLIN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.angeloagnolin@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-09-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Palmeira das Missões",
+    "escolaridade": null
+  },
+  "links": null
+}

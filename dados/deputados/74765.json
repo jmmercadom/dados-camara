@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74765,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74765",
+    "nomeCivil": "SILAS BRASILEIRO",
+    "ultimoStatus": {
+      "id": 74765,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74765",
+      "nome": "SILAS BRASILEIRO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74765.jpg",
+      "data": "2015-02-04",
+      "nomeEleitoral": "SILAS BRASILEIRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.silasbrasileiro@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1943-10-22",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Patrocínio",
+    "escolaridade": null
+  },
+  "links": null
+}

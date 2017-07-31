@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74635,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74635",
+    "nomeCivil": "MÁRIO SÍLVIO MENDES NEGROMONTE",
+    "ultimoStatus": {
+      "id": 74635,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74635",
+      "nome": "MÁRIO NEGROMONTE",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74635.jpg",
+      "data": "2014-06-05",
+      "nomeEleitoral": "MÁRIO NEGROMONTE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marionegromonte@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Posse no Cargo de Conselheiro do Tribunal de Contas dos Municípios do Estado da Bahia"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-07-06",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

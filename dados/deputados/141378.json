@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141378,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141378",
+    "nomeCivil": "ANDRÉ LUIZ VARGAS ILÁRIO",
+    "ultimoStatus": {
+      "id": 141378,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141378",
+      "nome": "ANDRE VARGAS",
+      "siglaPartido": "S.PART.",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+      "siglaUf": "PR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141378.jpg",
+      "data": "2014-12-11",
+      "nomeEleitoral": "ANDRE VARGAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.andrevargas@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Resolução nº 59/2014"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1964-03-02",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Assaí",
+    "escolaridade": null
+  },
+  "links": null
+}

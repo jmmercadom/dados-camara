@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74211,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74211",
+    "nomeCivil": "SEBASTIAO TORRES MADEIRA",
+    "ultimoStatus": {
+      "id": 74211,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74211",
+      "nome": "SEBASTIÃO MADEIRA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74211.jpg",
+      "data": "2009-01-01",
+      "nomeEleitoral": "SEBASTIÃO MADEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.sebastiaomadeira@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Imperatriz"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1949-12-29",
+    "dataFalecimento": null,
+    "ufNascimento": "MA",
+    "municipioNascimento": "São Domingos do Maranhão",
+    "escolaridade": null
+  },
+  "links": null
+}

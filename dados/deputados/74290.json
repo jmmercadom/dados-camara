@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74290,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74290",
+    "nomeCivil": "CARLOS ALBERTO LERÉIA DA SILVA",
+    "ultimoStatus": {
+      "id": 74290,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74290",
+      "nome": "CARLOS ALBERTO LERÉIA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "GO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74290.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "CARLOS ALBERTO LERÉIA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.carlosalbertolereia@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-06-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Bambuí",
+    "escolaridade": null
+  },
+  "links": null
+}

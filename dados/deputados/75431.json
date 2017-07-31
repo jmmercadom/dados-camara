@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 75431,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/75431",
+    "nomeCivil": "MAURÍCIO ALEXANDRE DZIEDRICKI",
+    "ultimoStatus": {
+      "id": 75431,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/75431",
+      "nome": "MAURÍCIO DZIEDRICKI",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/75431.jpg",
+      "data": "2013-12-04",
+      "nomeEleitoral": "MAURÍCIO DZIEDRICKI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.mauriciodziedricki@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Secretário de Obras Públicas, Irrigação e Desenvolvimento Urbano no RS"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1979-07-26",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

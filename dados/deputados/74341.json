@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74341,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74341",
+    "nomeCivil": "ALMIR MORAIS SÁ",
+    "ultimoStatus": {
+      "id": 74341,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74341",
+      "nome": "SÁ",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74341.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "SÁ",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.sa@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-09-30",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PR",
+    "municipioNascimento": "Paranavaí",
+    "escolaridade": null
+  },
+  "links": null
+}

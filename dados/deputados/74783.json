@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74783,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74783",
+    "nomeCivil": "JULIO FRANCISCO SEMEGHINI NETO",
+    "ultimoStatus": {
+      "id": 74783,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74783",
+      "nome": "JULIO SEMEGHINI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74783.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JULIO SEMEGHINI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.juliosemeghini@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-07-25",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "Fernandópolis",
+    "escolaridade": null
+  },
+  "links": null
+}

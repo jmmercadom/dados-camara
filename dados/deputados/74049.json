@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74049,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74049",
+    "nomeCivil": "JOÃO JOSÉ PEREIRA DE LYRA",
+    "ultimoStatus": {
+      "id": 74049,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74049",
+      "nome": "JOÃO LYRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "AL",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74049.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JOÃO LYRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joaolyra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1931-06-17",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74318,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74318",
+    "nomeCivil": "MUSSA DE JESUS DEMES",
+    "ultimoStatus": {
+      "id": 74318,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74318",
+      "nome": "MUSSA DEMES",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PI",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74318.jpg",
+      "data": "2008-11-05",
+      "nomeEleitoral": "MUSSA DEMES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.mussademes@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1939-12-08",
+    "dataFalecimento": null,
+    "ufNascimento": "PI",
+    "municipioNascimento": "Floriano",
+    "escolaridade": null
+  },
+  "links": null
+}

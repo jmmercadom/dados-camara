@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73651,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73651",
+    "nomeCivil": "ROGERIO LUCIO SOARES DA SILVA",
+    "ultimoStatus": {
+      "id": 73651,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73651",
+      "nome": "ROGERIO SILVA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MT",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73651.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ROGERIO SILVA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rogeriosilva@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-11-22",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "MG",
+    "municipioNascimento": "Ubá",
+    "escolaridade": null
+  },
+  "links": null
+}

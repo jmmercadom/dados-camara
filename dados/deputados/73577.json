@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73577,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73577",
+    "nomeCivil": "TARCISIO JOÃO ZIMERMMANN",
+    "ultimoStatus": {
+      "id": 73577,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73577",
+      "nome": "TARCÍSIO ZIMMERMANN",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RS",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73577.jpg",
+      "data": "2009-01-01",
+      "nomeEleitoral": "TARCÍSIO ZIMMERMANN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.tarcisiozimmermann@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Novo Hamburgo"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-07-24",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "Santo Cristo",
+    "escolaridade": null
+  },
+  "links": null
+}

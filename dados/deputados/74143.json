@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74143,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74143",
+    "nomeCivil": "MARCELO DE OLIVEIRA GUIMARÃES FILHO",
+    "ultimoStatus": {
+      "id": 74143,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74143",
+      "nome": "MARCELO GUIMARÃES FILHO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74143.jpg",
+      "data": "2013-06-03",
+      "nomeEleitoral": "MARCELO GUIMARÃES FILHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marceloguimaraesfilho@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1976-03-01",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": null
+  },
+  "links": null
+}

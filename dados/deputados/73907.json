@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73907,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73907",
+    "nomeCivil": "NELSON LUIZ PROENÇA FERNANDES",
+    "ultimoStatus": {
+      "id": 73907,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73907",
+      "nome": "NELSON PROENÇA",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "RS",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73907.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "NELSON PROENÇA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.nelsonproenca@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-08-14",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Porto Alegre",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160634,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160634",
+    "nomeCivil": "FRANCISCO VIEIRA SAMPAIO",
+    "ultimoStatus": {
+      "id": 160634,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160634",
+      "nome": "CHICO DAS VERDURAS",
+      "siglaPartido": "PRP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+      "siglaUf": "RR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160634.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "CHICO DAS VERDURAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.chicodasverduras@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-05-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

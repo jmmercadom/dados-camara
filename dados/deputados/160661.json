@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160661,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160661",
+    "nomeCivil": "JOSÉ AUGUSTO MAIA",
+    "ultimoStatus": {
+      "id": 160661,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160661",
+      "nome": "JOSÉ AUGUSTO MAIA",
+      "siglaPartido": "PROS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+      "siglaUf": "PE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160661.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JOSÉ AUGUSTO MAIA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joseaugustomaia@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-01-20",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "Santa Cruz do Capibaribe",
+    "escolaridade": null
+  },
+  "links": null
+}

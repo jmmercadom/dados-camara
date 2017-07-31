@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74024,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+    "nomeCivil": "AYRTON ALVARENGA XEREZ",
+    "ultimoStatus": {
+      "id": 74024,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+      "nome": "AYRTON XEREZ",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+      "data": "2008-10-31",
+      "nomeEleitoral": "AYRTON XEREZ",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ayrtonxerez@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-05-13",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

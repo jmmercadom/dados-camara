@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 118384,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/118384",
+    "nomeCivil": "CARLOS ALBERTO LOPES",
+    "ultimoStatus": {
+      "id": 118384,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/118384",
+      "nome": "DR. CARLOS ALBERTO",
+      "siglaPartido": "PMN",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36801",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/118384.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DR. CARLOS ALBERTO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.dr.carlosalberto@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1945-09-29",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

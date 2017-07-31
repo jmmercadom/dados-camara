@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74454,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74454",
+    "nomeCivil": "EUNÍCIO LOPES DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 74454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74454",
+      "nome": "EUNÍCIO OLIVEIRA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "CE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "EUNÍCIO OLIVEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.euniciooliveira@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-09-30",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "CE",
+    "municipioNascimento": "Lavras da Mangabeira",
+    "escolaridade": null
+  },
+  "links": null
+}

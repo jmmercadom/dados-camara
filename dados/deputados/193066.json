@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 193066,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193066",
+    "nomeCivil": "WILSON SILVA BESERRA",
+    "ultimoStatus": {
+      "id": 193066,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193066",
+      "nome": "WILSON BESERRA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193066.jpg",
+      "data": "2015-12-15",
+      "nomeEleitoral": "WILSON BESERRA",
+      "gabinete": {
+        "nome": "467",
+        "predio": "3",
+        "sala": "467",
+        "andar": null,
+        "telefone": "3215-5467",
+        "email": "dep.wilsonbeserra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1970-01-16",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

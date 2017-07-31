@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 151214,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151214",
+    "nomeCivil": "RONALDO DE BRITO LEITE",
+    "ultimoStatus": {
+      "id": 151214,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151214",
+      "nome": "RONALDO LEITE",
+      "siglaPartido": "PHS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+      "siglaUf": "AM",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/151214.jpg",
+      "data": "2008-12-12",
+      "nomeEleitoral": "RONALDO LEITE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ronaldoleite@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-05-16",
+    "dataFalecimento": null,
+    "ufNascimento": "AM",
+    "municipioNascimento": "Manaus",
+    "escolaridade": null
+  },
+  "links": null
+}

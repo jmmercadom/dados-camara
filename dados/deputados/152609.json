@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 152609,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152609",
+    "nomeCivil": "ELIZEU MORAIS DE AGUIAR",
+    "ultimoStatus": {
+      "id": 152609,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152609",
+      "nome": "ELIZEU AGUIAR",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "PI",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/152609.jpg",
+      "data": "2010-04-06",
+      "nomeEleitoral": "ELIZEU AGUIAR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.elizeuaguiar@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-05-28",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 165429,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/165429",
+    "nomeCivil": "GEAN MARQUES LOUREIRO",
+    "ultimoStatus": {
+      "id": 165429,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/165429",
+      "nome": "GEAN LOUREIRO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "SC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/165429.jpg",
+      "data": "2012-03-01",
+      "nomeEleitoral": "GEAN LOUREIRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.geanloureiro@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-10-09",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141492,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141492",
+    "nomeCivil": "MANUELA PINTO VIEIRA D'ÁVILA",
+    "ultimoStatus": {
+      "id": 141492,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141492",
+      "nome": "MANUELA D'ÁVILA",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141492.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "MANUELA D'ÁVILA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.manuelad'avila@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1981-08-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RS",
+    "municipioNascimento": "Porto Alegre",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73588,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73588",
+    "nomeCivil": "CARLOS MAURO CABRAL BENEVIDES",
+    "ultimoStatus": {
+      "id": 73588,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73588",
+      "nome": "MAURO BENEVIDES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73588.jpg",
+      "data": "2016-05-03",
+      "nomeEleitoral": "MAURO BENEVIDES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.maurobenevides@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1930-03-21",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Fortaleza",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178850,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178850",
+    "nomeCivil": "MARCOS SERGIO ROTTA",
+    "ultimoStatus": {
+      "id": 178850,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178850",
+      "nome": "MARCOS ROTTA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "AM",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178850.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "MARCOS ROTTA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marcosrotta@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1967-03-11",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Cianorte",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

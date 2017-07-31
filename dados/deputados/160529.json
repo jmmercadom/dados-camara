@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160529,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160529",
+    "nomeCivil": "ALUIZIO DOS SANTOS JUNIOR",
+    "ultimoStatus": {
+      "id": 160529,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160529",
+      "nome": "DR. ALUIZIO",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160529.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "DR. ALUIZIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.dr.aluizio@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Macaé/RJ"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1968-07-13",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Macaé",
+    "escolaridade": null
+  },
+  "links": null
+}

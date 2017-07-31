@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74747,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74747",
+    "nomeCivil": "MÁRIO DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 74747,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74747",
+      "nome": "MÁRIO DE OLIVEIRA",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74747.jpg",
+      "data": "2013-07-15",
+      "nomeEleitoral": "MÁRIO DE OLIVEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.mariodeoliveira@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1945-11-03",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Júlio Mesquita",
+    "escolaridade": null
+  },
+  "links": null
+}

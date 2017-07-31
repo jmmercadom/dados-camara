@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74435,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74435",
+    "nomeCivil": "SEVERINO SÉRGIO ESTELITA GUERRA",
+    "ultimoStatus": {
+      "id": 74435,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74435",
+      "nome": "SERGIO GUERRA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74435.jpg",
+      "data": "2014-03-06",
+      "nomeEleitoral": "SERGIO GUERRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.sergioguerra@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1947-11-09",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

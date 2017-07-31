@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141475,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141475",
+    "nomeCivil": "JURANDY LOUREIRO BARROSO",
+    "ultimoStatus": {
+      "id": 141475,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141475",
+      "nome": "JURANDY LOUREIRO",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "ES",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141475.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "JURANDY LOUREIRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jurandyloureiro@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1940-11-04",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "ES",
+    "municipioNascimento": "Aracruz",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73780,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73780",
+    "nomeCivil": "MAX ROSENMANN",
+    "ultimoStatus": {
+      "id": 73780,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73780",
+      "nome": "MAX ROSENMANN",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73780.jpg",
+      "data": "2008-10-25",
+      "nomeEleitoral": "MAX ROSENMANN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.maxrosenmann@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-11-29",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Curitiba",
+    "escolaridade": null
+  },
+  "links": null
+}

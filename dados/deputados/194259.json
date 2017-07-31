@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 194259,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194259",
+    "nomeCivil": "GUILHERME CRUZ DE SOUZA COELHO",
+    "ultimoStatus": {
+      "id": 194259,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194259",
+      "nome": "GUILHERME COELHO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/194259.jpg",
+      "data": "2016-05-17",
+      "nomeEleitoral": "GUILHERME COELHO",
+      "gabinete": {
+        "nome": "583",
+        "predio": "3",
+        "sala": "583",
+        "andar": null,
+        "telefone": "3215-5583",
+        "email": "dep.guilhermecoelho@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1962-04-28",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

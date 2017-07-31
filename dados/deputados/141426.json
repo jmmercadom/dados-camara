@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141426,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141426",
+    "nomeCivil": "EUGÊNIO RABELO",
+    "ultimoStatus": {
+      "id": 141426,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141426",
+      "nome": "EUGÊNIO RABELO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "CE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141426.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "EUGÊNIO RABELO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eugeniorabelo@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-05-15",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "CE",
+    "municipioNascimento": "Morada Nova",
+    "escolaridade": null
+  },
+  "links": null
+}

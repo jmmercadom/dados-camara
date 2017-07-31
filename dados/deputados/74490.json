@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74490,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74490",
+    "nomeCivil": "JOAQUIM WASHINGTON LUIZ DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 74490,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74490",
+      "nome": "WASHINGTON LUIZ",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74490.jpg",
+      "data": "2010-04-07",
+      "nomeEleitoral": "WASHINGTON LUIZ",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.washingtonluiz@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1949-12-24",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Várzea Alegre",
+    "escolaridade": null
+  },
+  "links": null
+}

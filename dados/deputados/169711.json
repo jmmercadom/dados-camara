@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 169711,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/169711",
+    "nomeCivil": "TELMA PINHEIRO RIBEIRO",
+    "ultimoStatus": {
+      "id": 169711,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/169711",
+      "nome": "TELMA PINHEIRO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/169711.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "TELMA PINHEIRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.telmapinheiro@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-03-12",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

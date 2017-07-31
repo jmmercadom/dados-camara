@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74230,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74230",
+    "nomeCivil": "COLBERT MARTINS DA SILVA FILHO",
+    "ultimoStatus": {
+      "id": 74230,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74230",
+      "nome": "COLBERT MARTINS",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74230.jpg",
+      "data": null,
+      "nomeEleitoral": "COLBERT MARTINS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.colbertmartins@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-10-02",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Feira de Santana",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 190149,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/190149",
+    "nomeCivil": "FABRICIO JOSÉ SATIRO DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 190149,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/190149",
+      "nome": "FABRICIO OLIVEIRA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SC",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/190149.jpg",
+      "data": "2015-07-08",
+      "nomeEleitoral": "FABRICIO OLIVEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fabriciooliveira@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1975-07-01",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Curitiba",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

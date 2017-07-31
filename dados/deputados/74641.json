@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74641,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74641",
+    "nomeCivil": "SEVERIANO ALVES DE SOUZA",
+    "ultimoStatus": {
+      "id": 74641,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74641",
+      "nome": "SEVERIANO ALVES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "BA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74641.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "SEVERIANO ALVES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.severianoalves@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1943-02-12",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Antas",
+    "escolaridade": null
+  },
+  "links": null
+}

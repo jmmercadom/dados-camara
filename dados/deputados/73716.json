@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73716,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73716",
+    "nomeCivil": "LEOMAR DE MELO QUINTANILHA",
+    "ultimoStatus": {
+      "id": 73716,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73716",
+      "nome": "LEOMAR QUINTANILHA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "TO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73716.jpg",
+      "data": "2013-06-03",
+      "nomeEleitoral": "LEOMAR QUINTANILHA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.leomarquintanilha@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1945-10-23",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

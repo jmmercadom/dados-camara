@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74197,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74197",
+    "nomeCivil": "DOMINGOS FRANCISCO DUTRA FILHO",
+    "ultimoStatus": {
+      "id": 74197,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74197",
+      "nome": "DOMINGOS DUTRA",
+      "siglaPartido": "SD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74197.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DOMINGOS DUTRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.domingosdutra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-03-20",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MA",
+    "municipioNascimento": "Buriti",
+    "escolaridade": null
+  },
+  "links": null
+}

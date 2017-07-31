@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141486,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141486",
+    "nomeCivil": "LUIZ CARLOS SETIM",
+    "ultimoStatus": {
+      "id": 141486,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141486",
+      "nome": "LUIZ CARLOS SETIM",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141486.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "LUIZ CARLOS SETIM",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.luizcarlossetim@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Prefeito de São José dos Pinhais/PR"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-05-02",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

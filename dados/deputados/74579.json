@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74579,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74579",
+    "nomeCivil": "CUSTÓDIO ANTÔNIO DE MATTOS",
+    "ultimoStatus": {
+      "id": 74579,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74579",
+      "nome": "CUSTÓDIO MATTOS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MG",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74579.jpg",
+      "data": "2009-01-01",
+      "nomeEleitoral": "CUSTÓDIO MATTOS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.custodiomattos@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Juiz de Fora"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1948-04-03",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Bicas",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 158328,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/158328",
+    "nomeCivil": "FRANCISCO TARQUINIO DALTRO",
+    "ultimoStatus": {
+      "id": 158328,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/158328",
+      "nome": "CHICO DALTRO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MT",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/158328.jpg",
+      "data": "2011-01-01",
+      "nomeEleitoral": "CHICO DALTRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.chicodaltro@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Secretário de Ciência e Tecnologia"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-07-29",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

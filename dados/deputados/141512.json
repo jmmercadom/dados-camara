@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141512,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141512",
+    "nomeCivil": "NEUDO RIBEIRO CAMPOS",
+    "ultimoStatus": {
+      "id": 141512,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141512",
+      "nome": "NEUDO CAMPOS",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "RR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141512.jpg",
+      "data": "2010-08-26",
+      "nomeEleitoral": "NEUDO CAMPOS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.neudocampos@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-09-01",
+    "dataFalecimento": null,
+    "ufNascimento": "RR",
+    "municipioNascimento": "Boa Vista",
+    "escolaridade": null
+  },
+  "links": null
+}

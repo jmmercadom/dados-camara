@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160606,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160606",
+    "nomeCivil": "PROTÓGENES PINHEIRO DE QUEIROZ",
+    "ultimoStatus": {
+      "id": 160606,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160606",
+      "nome": "DELEGADO PROTÓGENES",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160606.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DELEGADO PROTÓGENES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.delegadoprotogenes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-05-20",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": null
+  },
+  "links": null
+}

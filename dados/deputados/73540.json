@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73540,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73540",
+    "nomeCivil": "JOSÉ GENOÍNO NETO",
+    "ultimoStatus": {
+      "id": 73540,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73540",
+      "nome": "JOSÉ GENOÍNO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73540.jpg",
+      "data": "2013-12-03",
+      "nomeEleitoral": "JOSÉ GENOÍNO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.josegenoino@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Lida no Plenário às 14h26 e publicada no suplemento do DCD de 04/12/2013."
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-05-03",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Quixeramobim",
+    "escolaridade": null
+  },
+  "links": null
+}

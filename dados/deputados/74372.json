@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74372,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74372",
+    "nomeCivil": "JOÃO SANDES JÚNIOR",
+    "ultimoStatus": {
+      "id": 74372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74372",
+      "nome": "SANDES JÚNIOR",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "GO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74372.jpg",
+      "data": "2015-02-04",
+      "nomeEleitoral": "SANDES JÚNIOR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.sandesjunior@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-04-28",
+    "dataFalecimento": null,
+    "ufNascimento": "TO",
+    "municipioNascimento": "Porto Nacional",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178990,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178990",
+    "nomeCivil": "SAMUEL MOREIRA DA SILVA JUNIOR",
+    "ultimoStatus": {
+      "id": 178990,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178990",
+      "nome": "SAMUEL MOREIRA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178990.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "SAMUEL MOREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.samuelmoreira@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-02-09",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Governador Valadares",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 173262,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/173262",
+    "nomeCivil": "JOSÉ ILÁRIO GONÇALVES MARQUES",
+    "ultimoStatus": {
+      "id": 173262,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/173262",
+      "nome": "ILÁRIO MARQUES",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "CE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/173262.jpg",
+      "data": "2013-08-27",
+      "nomeEleitoral": "ILÁRIO MARQUES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.ilariomarques@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-01-13",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

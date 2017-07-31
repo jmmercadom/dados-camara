@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74026,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74026",
+    "nomeCivil": "CLÓVIS ANTÔNIO CHAVES FECURY",
+    "ultimoStatus": {
+      "id": 74026,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74026",
+      "nome": "CLÓVIS FECURY",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74026.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "CLÓVIS FECURY",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.clovisfecury@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1969-02-08",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "DF",
+    "municipioNascimento": "Brasília",
+    "escolaridade": null
+  },
+  "links": null
+}

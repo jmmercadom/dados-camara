@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74000,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74000",
+    "nomeCivil": "FRANCISCO OCTAVIO BECKERT",
+    "ultimoStatus": {
+      "id": 74000,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74000",
+      "nome": "CHICO DA PRINCESA",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "PR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74000.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "CHICO DA PRINCESA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.chicodaprincesa@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-07-14",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SC",
+    "municipioNascimento": "Três Barras",
+    "escolaridade": null
+  },
+  "links": null
+}

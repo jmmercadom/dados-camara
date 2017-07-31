@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160584,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160584",
+    "nomeCivil": "CARLOS JOSE DE ALMEIDA",
+    "ultimoStatus": {
+      "id": 160584,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160584",
+      "nome": "CARLINHOS ALMEIDA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160584.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "CARLINHOS ALMEIDA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.carlinhosalmeida@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de São José dos Campos/SP"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-06-25",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Santa Rita de Jacutinga",
+    "escolaridade": null
+  },
+  "links": null
+}

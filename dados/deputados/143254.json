@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 143254,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143254",
+    "nomeCivil": "ACÉLIO CASAGRANDE",
+    "ultimoStatus": {
+      "id": 143254,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143254",
+      "nome": "ACÉLIO CASAGRANDE",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "SC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/143254.jpg",
+      "data": "2010-03-31",
+      "nomeEleitoral": "ACÉLIO CASAGRANDE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.aceliocasagrande@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-12-01",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

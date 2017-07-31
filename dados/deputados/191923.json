@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 191923,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191923",
+    "nomeCivil": "FLÁVIO RODRIGUES NOGUEIRA",
+    "ultimoStatus": {
+      "id": 191923,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191923",
+      "nome": "FLAVIO NOGUEIRA",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "PI",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
+      "data": "2015-10-06",
+      "nomeEleitoral": "FLAVIO NOGUEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.flavionogueira@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-02-27",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Alto Santo",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

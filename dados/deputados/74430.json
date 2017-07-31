@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74430,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74430",
+    "nomeCivil": "OSVALDO DE SOUZA COELHO",
+    "ultimoStatus": {
+      "id": 74430,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74430",
+      "nome": "OSVALDO COELHO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74430.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "OSVALDO COELHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.osvaldocoelho@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1931-08-24",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Juazeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

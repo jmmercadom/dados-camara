@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141379,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141379",
+    "nomeCivil": "ANDREIA ALMEIDA ZITO DOS SANTOS",
+    "ultimoStatus": {
+      "id": 141379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141379",
+      "nome": "ANDREIA ZITO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141379.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ANDREIA ZITO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.andreiazito@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1974-07-13",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

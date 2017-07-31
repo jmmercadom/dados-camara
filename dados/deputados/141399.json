@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141399,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141399",
+    "nomeCivil": "CARLOS DAUDT BRIZOLA",
+    "ultimoStatus": {
+      "id": 141399,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141399",
+      "nome": "BRIZOLA NETO",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141399.jpg",
+      "data": "2012-07-16",
+      "nomeEleitoral": "BRIZOLA NETO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.brizolaneto@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "3 dias de Licença Tratamento Saúde e 120 dias de Licença Interesse Particular"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1978-10-11",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

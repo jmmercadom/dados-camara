@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160675,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160675",
+    "nomeCivil": "JÂNIO NATAL ANDRADE BORGES",
+    "ultimoStatus": {
+      "id": 160675,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160675",
+      "nome": "JÂNIO NATAL",
+      "siglaPartido": "PRP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160675.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JÂNIO NATAL",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.janionatal@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-12-25",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": null
+  },
+  "links": null
+}

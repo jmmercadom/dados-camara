@@ -1,0 +1,45 @@
+{
+  "dados": {
+    "id": 74752,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74752",
+    "nomeCivil": "ODELMO LEÃO CARNEIRO SOBRINHO",
+    "ultimoStatus": {
+      "id": 74752,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74752",
+      "nome": "ODELMO LEÃO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74752.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "ODELMO LEÃO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.odelmoleao@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [
+      "www.facebook.com/odelmoleao",
+      "www.twitter.com/odelmoleao",
+      "@odelmoleao",
+      "www.youtube.com/odelmoleaouberlandia"
+    ],
+    "dataNascimento": "1946-05-26",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Uberaba",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

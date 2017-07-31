@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141552,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141552",
+    "nomeCivil": "VALTENIR LUIZ PEREIRA",
+    "ultimoStatus": {
+      "id": 141552,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141552",
+      "nome": "VALTENIR PEREIRA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "MT",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141552.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "VALTENIR PEREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.valtenirpereira@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1971-11-24",
+    "dataFalecimento": null,
+    "ufNascimento": "MT",
+    "municipioNascimento": "Jaciara",
+    "escolaridade": null
+  },
+  "links": null
+}

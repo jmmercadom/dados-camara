@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74751,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74751",
+    "nomeCivil": "NILMÁRIO DE MIRANDA",
+    "ultimoStatus": {
+      "id": 74751,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74751",
+      "nome": "NILMÁRIO MIRANDA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74751.jpg",
+      "data": "2015-02-12",
+      "nomeEleitoral": "NILMÁRIO MIRANDA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.nilmariomiranda@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1947-08-11",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Belo Horizonte",
+    "escolaridade": null
+  },
+  "links": null
+}

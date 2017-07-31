@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 196358,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/196358",
+    "nomeCivil": "LOURIVAL GOMES DE ALMEIDA",
+    "ultimoStatus": {
+      "id": 196358,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/196358",
+      "nome": "LOURIVAL GOMES",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/196358.jpg",
+      "data": "2017-01-02",
+      "nomeEleitoral": "LOURIVAL GOMES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.lourivalgomes@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-07-22",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": "Ensino Fundamental"
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141549,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141549",
+    "nomeCivil": "SUELY SANTANA DA SILVA",
+    "ultimoStatus": {
+      "id": 141549,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141549",
+      "nome": "SUELY",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141549.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "SUELY",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.suely@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1976-08-26",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "BA",
+    "municipioNascimento": "Ilhéus",
+    "escolaridade": null
+  },
+  "links": null
+}

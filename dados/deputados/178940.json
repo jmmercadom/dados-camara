@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178940,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178940",
+    "nomeCivil": "JOAO FERREIRA NETO",
+    "ultimoStatus": {
+      "id": 178940,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178940",
+      "nome": "DR. JOÃO",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178940.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "DR. JOÃO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.dr.joao@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-08-05",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Fortaleza",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

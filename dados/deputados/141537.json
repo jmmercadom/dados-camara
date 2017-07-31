@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141537,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141537",
+    "nomeCivil": "RUBENS MOREIRA MENDES FILHO",
+    "ultimoStatus": {
+      "id": 141537,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141537",
+      "nome": "MOREIRA MENDES",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "RO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141537.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "MOREIRA MENDES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.moreiramendes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-07-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

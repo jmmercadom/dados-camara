@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160365,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160365",
+    "nomeCivil": "FRANCISCO FERREIRA FREITAS NETO",
+    "ultimoStatus": {
+      "id": 160365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160365",
+      "nome": "CHICO NETO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160365.jpg",
+      "data": "2011-01-26",
+      "nomeEleitoral": "CHICO NETO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.chiconeto@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-05-08",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

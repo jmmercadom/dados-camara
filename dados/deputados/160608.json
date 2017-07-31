@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160608,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160608",
+    "nomeCivil": "MARIA TERESA SAENZ SURITA JUCÁ",
+    "ultimoStatus": {
+      "id": 160608,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160608",
+      "nome": "TERESA SURITA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160608.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "TERESA SURITA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.teresasurita@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeita de Boa Vista/RR"
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-08-14",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Manuel",
+    "escolaridade": null
+  },
+  "links": null
+}

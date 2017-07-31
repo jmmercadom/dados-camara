@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160577,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160577",
+    "nomeCivil": "ADRIAN MUSSI RAMOS",
+    "ultimoStatus": {
+      "id": 160577,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160577",
+      "nome": "ADRIAN",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160577.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ADRIAN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.adrian@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1967-03-11",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Macaé",
+    "escolaridade": null
+  },
+  "links": null
+}

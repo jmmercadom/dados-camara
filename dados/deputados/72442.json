@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 72442,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/72442",
+    "nomeCivil": "FELIPE AUGUSTO LYRA CARRERAS",
+    "ultimoStatus": {
+      "id": 72442,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/72442",
+      "nome": "FELIPE CARRERAS",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "FELIPE CARRERAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.felipecarreras@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1975-04-16",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

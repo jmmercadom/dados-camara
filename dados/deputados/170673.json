@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 170673,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/170673",
+    "nomeCivil": "SERGIO PAULO DE OLIVEIRA",
+    "ultimoStatus": {
+      "id": 170673,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/170673",
+      "nome": "PROFESSOR SÉRGIO DE OLIVEIRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/170673.jpg",
+      "data": "2016-05-17",
+      "nomeEleitoral": "PROFESSOR SÉRGIO DE OLIVEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.professorsergiodeoliveira@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-03-19",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Medianeira",
+    "escolaridade": null
+  },
+  "links": null
+}

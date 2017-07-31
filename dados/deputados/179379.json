@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 179379,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179379",
+    "nomeCivil": "CARLA ROSYMAR ARAUJO DE SOUSA BARRETO",
+    "ultimoStatus": {
+      "id": 179379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179379",
+      "nome": "ROSY DE SOUSA",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "RN",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/179379.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ROSY DE SOUSA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.rosydesousa@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1973-01-15",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

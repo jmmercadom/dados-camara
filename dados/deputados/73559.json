@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73559,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73559",
+    "nomeCivil": "SALVADOR ZIMBALDI FILHO",
+    "ultimoStatus": {
+      "id": 73559,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73559",
+      "nome": "SALVADOR ZIMBALDI",
+      "siglaPartido": "PROS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73559.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "SALVADOR ZIMBALDI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.salvadorzimbaldi@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-06-05",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "Campinas",
+    "escolaridade": null
+  },
+  "links": null
+}

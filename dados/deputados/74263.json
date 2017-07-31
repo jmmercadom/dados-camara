@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74263,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74263",
+    "nomeCivil": "CLÁUDIO MAGRÃO DE CAMARGO CRE",
+    "ultimoStatus": {
+      "id": 74263,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74263",
+      "nome": "CLÁUDIO MAGRÃO",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74263.jpg",
+      "data": "2009-03-03",
+      "nomeEleitoral": "CLÁUDIO MAGRÃO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.claudiomagrao@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1951-07-06",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Osasco",
+    "escolaridade": null
+  },
+  "links": null
+}

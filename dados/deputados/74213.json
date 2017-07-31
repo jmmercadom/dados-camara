@@ -1,0 +1,43 @@
+{
+  "dados": {
+    "id": 74213,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74213",
+    "nomeCivil": "ANTONIO BALHMANN CARDOSO NUNES FILHO",
+    "ultimoStatus": {
+      "id": 74213,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74213",
+      "nome": "ANTONIO BALHMANN",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "CE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74213.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "ANTONIO BALHMANN",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.antoniobalhmann@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [
+      "http://twitter.com/#!/Dep_Balhmann",
+      "http://www.facebook.com/profile.php?id=100002156484492&viewas=100000686899395&returnto=profile"
+    ],
+    "dataNascimento": "1949-08-22",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Russas",
+    "escolaridade": null
+  },
+  "links": null
+}

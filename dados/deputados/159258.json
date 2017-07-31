@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 159258,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159258",
+    "nomeCivil": "VICENTE PAULO DE OLIVEIRA SELISTRE",
+    "ultimoStatus": {
+      "id": 159258,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159258",
+      "nome": "VICENTE SELISTRE",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "RS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/159258.jpg",
+      "data": "2012-11-02",
+      "nomeEleitoral": "VICENTE SELISTRE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.vicenteselistre@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1964-04-17",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73558,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73558",
+    "nomeCivil": "ROBSON TUMA",
+    "ultimoStatus": {
+      "id": 73558,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73558",
+      "nome": "ROBSON TUMA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73558.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ROBSON TUMA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.robsontuma@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1968-09-05",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

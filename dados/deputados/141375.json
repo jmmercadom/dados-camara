@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141375,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141375",
+    "nomeCivil": "ALINE LEMOS CORRÊA DE OLIVEIRA ANDRADE",
+    "ultimoStatus": {
+      "id": 141375,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141375",
+      "nome": "ALINE CORRÊA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141375.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ALINE CORRÊA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.alinecorrea@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1973-03-25",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

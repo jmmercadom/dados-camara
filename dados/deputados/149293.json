@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 149293,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/149293",
+    "nomeCivil": "SATURNINO MASSON",
+    "ultimoStatus": {
+      "id": 149293,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/149293",
+      "nome": "SATURNINO MASSON",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MT",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/149293.jpg",
+      "data": "2008-07-11",
+      "nomeEleitoral": "SATURNINO MASSON",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.saturninomasson@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-11-29",
+    "dataFalecimento": null,
+    "ufNascimento": "SP",
+    "municipioNascimento": "Tanabi",
+    "escolaridade": null
+  },
+  "links": null
+}

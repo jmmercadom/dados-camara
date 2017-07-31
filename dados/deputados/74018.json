@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74018,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74018",
+    "nomeCivil": "ALBERICO DE FRANÇA FERREIRA FILHO",
+    "ultimoStatus": {
+      "id": 74018,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74018",
+      "nome": "ALBÉRICO FILHO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "MA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74018.jpg",
+      "data": "2011-01-04",
+      "nomeEleitoral": "ALBÉRICO FILHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.albericofilho@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": "Secretário das Cidades e Desenvolvimento Urbano"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1950-04-10",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Goiana",
+    "escolaridade": null
+  },
+  "links": null
+}

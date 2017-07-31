@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74379,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74379",
+    "nomeCivil": "CEZAR AUGUSTO CAROLLO SILVESTRI",
+    "ultimoStatus": {
+      "id": 74379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74379",
+      "nome": "CEZAR SILVESTRI",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "siglaUf": "PR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74379.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "CEZAR SILVESTRI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.cezarsilvestri@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-08-01",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PR",
+    "municipioNascimento": "Guarapuava",
+    "escolaridade": null
+  },
+  "links": null
+}

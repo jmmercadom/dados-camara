@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74842,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74842",
+    "nomeCivil": "FERNANDO ANTONIO FOLGADO GONÇALVES",
+    "ultimoStatus": {
+      "id": 74842,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74842",
+      "nome": "FERNANDO GONÇALVES",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "RJ",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74842.jpg",
+      "data": "2010-06-02",
+      "nomeEleitoral": "FERNANDO GONÇALVES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fernandogoncalves@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-12-06",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Nova Iguaçu",
+    "escolaridade": null
+  },
+  "links": null
+}

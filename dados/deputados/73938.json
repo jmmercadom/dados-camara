@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73938,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73938",
+    "nomeCivil": "EDUARDO VALVERDE ARAÚJO ALVES",
+    "ultimoStatus": {
+      "id": 73938,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73938",
+      "nome": "EDUARDO VALVERDE",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RO",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73938.jpg",
+      "data": "2011-03-11",
+      "nomeEleitoral": "EDUARDO VALVERDE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eduardovalverde@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1957-02-20",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

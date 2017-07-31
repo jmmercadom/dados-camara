@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74425,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74425",
+    "nomeCivil": "JOSÉ MENDONÇA BEZERRA",
+    "ultimoStatus": {
+      "id": 74425,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74425",
+      "nome": "JOSÉ MENDONÇA BEZERRA",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "PE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74425.jpg",
+      "data": "2011-04-24",
+      "nomeEleitoral": "JOSÉ MENDONÇA BEZERRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.josemendoncabezerra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1936-01-18",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PE",
+    "municipioNascimento": "Belo Jardim",
+    "escolaridade": null
+  },
+  "links": null
+}

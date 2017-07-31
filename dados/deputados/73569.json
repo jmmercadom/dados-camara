@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73569,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73569",
+    "nomeCivil": "JORGE DOS REIS PINHEIRO",
+    "ultimoStatus": {
+      "id": 73569,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73569",
+      "nome": "JORGE PINHEIRO",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "GO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73569.jpg",
+      "data": "2011-08-01",
+      "nomeEleitoral": "JORGE PINHEIRO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jorgepinheiro@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-10-12",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Juiz de Fora",
+    "escolaridade": null
+  },
+  "links": null
+}

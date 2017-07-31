@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 166727,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166727",
+    "nomeCivil": "ELAINE APARECIDA BELLONI ABISSAMRA",
+    "ultimoStatus": {
+      "id": 166727,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166727",
+      "nome": "DRA. ELAINE ABISSAMRA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/166727.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DRA. ELAINE ABISSAMRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.dra.elaineabissamra@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-01-08",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

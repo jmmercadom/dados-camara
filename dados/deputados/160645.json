@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160645,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160645",
+    "nomeCivil": "LUIZ CARLOS GOMES DOS SANTOS JUNIOR",
+    "ultimoStatus": {
+      "id": 160645,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160645",
+      "nome": "LUIZ CARLOS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "AP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160645.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "LUIZ CARLOS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.luizcarlos@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1979-08-16",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "AP",
+    "municipioNascimento": "Amapá",
+    "escolaridade": null
+  },
+  "links": null
+}

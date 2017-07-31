@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73461,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73461",
+    "nomeCivil": "ÍRIS XAVIER SIMÕES",
+    "ultimoStatus": {
+      "id": 73461,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73461",
+      "nome": "ÍRIS SIMÕES",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "PR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73461.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "ÍRIS SIMÕES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.irissimoes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1961-05-25",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PR",
+    "municipioNascimento": "Pato Branco",
+    "escolaridade": null
+  },
+  "links": null
+}

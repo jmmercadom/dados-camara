@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160647,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160647",
+    "nomeCivil": "EDUARDO BRANDÃO DE AZEREDO",
+    "ultimoStatus": {
+      "id": 160647,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160647",
+      "nome": "EDUARDO AZEREDO",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160647.jpg",
+      "data": "2014-02-19",
+      "nomeEleitoral": "EDUARDO AZEREDO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eduardoazeredo@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1948-09-09",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "Belo Horizonte",
+    "escolaridade": null
+  },
+  "links": null
+}

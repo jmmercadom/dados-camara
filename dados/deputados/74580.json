@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74580,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74580",
+    "nomeCivil": "EDMAR BATISTA MOREIRA",
+    "ultimoStatus": {
+      "id": 74580,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74580",
+      "nome": "EDMAR MOREIRA",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74580.jpg",
+      "data": "2014-04-04",
+      "nomeEleitoral": "EDMAR MOREIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.edmarmoreira@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1939-09-25",
+    "dataFalecimento": null,
+    "ufNascimento": "MG",
+    "municipioNascimento": "São João Nepomuceno",
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,43 @@
+{
+  "dados": {
+    "id": 160547,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160547",
+    "nomeCivil": "JOÃO LUIZ CORREIA ARGÔLO DOS SANTOS",
+    "ultimoStatus": {
+      "id": 160547,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160547",
+      "nome": "LUIZ ARGÔLO",
+      "siglaPartido": "SD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160547.jpg",
+      "data": null,
+      "nomeEleitoral": "LUIZ ARGÔLO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.luizargolo@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [
+      "http://www.twitter.com/luizargolo_1133",
+      "http://www.twitter.com/luizargolo_1133"
+    ],
+    "dataNascimento": "1980-06-23",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Entre Rios",
+    "escolaridade": null
+  },
+  "links": null
+}

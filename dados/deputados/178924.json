@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178924,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178924",
+    "nomeCivil": "FABIO ABREU COSTA",
+    "ultimoStatus": {
+      "id": 178924,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178924",
+      "nome": "CAPITÃO FÁBIO ABREU",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "PI",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178924.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "CAPITÃO FÁBIO ABREU",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.capitaofabioabreu@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-12-31",
+    "dataFalecimento": null,
+    "ufNascimento": "CE",
+    "municipioNascimento": "Fortaleza",
+    "escolaridade": "Pós-Graduação"
+  },
+  "links": null
+}

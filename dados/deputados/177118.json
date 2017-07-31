@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 177118,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/177118",
+    "nomeCivil": "LUIZ EDUARDO FRANCISCO DA SILVA",
+    "ultimoStatus": {
+      "id": 177118,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/177118",
+      "nome": "DUDU LUIZ EDUARDO",
+      "siglaPartido": "PSDC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36836",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/177118.jpg",
+      "data": "2014-08-10",
+      "nomeEleitoral": "DUDU LUIZ EDUARDO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.duduluizeduardo@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1980-03-16",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

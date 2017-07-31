@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73873,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73873",
+    "nomeCivil": "JOÃO BATISTA MATOS",
+    "ultimoStatus": {
+      "id": 73873,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73873",
+      "nome": "JOÃO MATOS",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "SC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73873.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "JOÃO MATOS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joaomatos@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1948-01-08",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "SC",
+    "municipioNascimento": "Ituporanga",
+    "escolaridade": null
+  },
+  "links": null
+}

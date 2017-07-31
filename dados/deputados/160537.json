@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160537,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160537",
+    "nomeCivil": "GABRIEL BENEDITO ISSAAC CHALITA",
+    "ultimoStatus": {
+      "id": 160537,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160537",
+      "nome": "GABRIEL CHALITA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160537.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "GABRIEL CHALITA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.gabrielchalita@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1969-04-30",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "Cachoeira Paulista",
+    "escolaridade": null
+  },
+  "links": null
+}

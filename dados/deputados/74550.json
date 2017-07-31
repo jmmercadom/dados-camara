@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74550,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74550",
+    "nomeCivil": "JOÃO FELIPE DE SOUZA LEÃO",
+    "ultimoStatus": {
+      "id": 74550,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74550",
+      "nome": "JOÃO LEÃO",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "siglaUf": "BA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74550.jpg",
+      "data": "2014-12-31",
+      "nomeEleitoral": "JOÃO LEÃO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.joaoleao@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Tomará posse no mandato de Vice-Governador do Estado da Bahia"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-02-27",
+    "dataFalecimento": null,
+    "ufNascimento": "PE",
+    "municipioNascimento": "Recife",
+    "escolaridade": null
+  },
+  "links": null
+}

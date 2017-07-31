@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74106,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74106",
+    "nomeCivil": "EDSON SILVA",
+    "ultimoStatus": {
+      "id": 74106,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74106",
+      "nome": "EDSON SILVA",
+      "siglaPartido": "PROS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+      "siglaUf": "CE",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74106.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "EDSON SILVA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.edsonsilva@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1949-05-09",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "CE",
+    "municipioNascimento": "Fortaleza",
+    "escolaridade": null
+  },
+  "links": null
+}

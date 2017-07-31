@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160318,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160318",
+    "nomeCivil": "CARLOS ALBERTO PEREIRA",
+    "ultimoStatus": {
+      "id": 160318,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160318",
+      "nome": "CARLOS ALBERTO",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MG",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160318.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "CARLOS ALBERTO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.carlosalberto@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1954-09-07",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

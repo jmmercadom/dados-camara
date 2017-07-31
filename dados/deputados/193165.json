@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 193165,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193165",
+    "nomeCivil": "ATILA ALEXANDRE NUNES PEREIRA",
+    "ultimoStatus": {
+      "id": 193165,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193165",
+      "nome": "ÁTILA A. NUNES",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193165.jpg",
+      "data": "2016-01-06",
+      "nomeEleitoral": "ÁTILA A. NUNES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.atilaa.nunes@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1974-06-24",
+    "dataFalecimento": null,
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": "Superior"
+  },
+  "links": null
+}

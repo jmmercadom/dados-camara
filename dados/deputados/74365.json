@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74365,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74365",
+    "nomeCivil": "NILSON MOURA LEITE MOURÃO",
+    "ultimoStatus": {
+      "id": 74365,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74365",
+      "nome": "NILSON MOURÃO",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "AC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74365.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "NILSON MOURÃO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.nilsonmourao@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-04-01",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "AC",
+    "municipioNascimento": "Tarauacá",
+    "escolaridade": null
+  },
+  "links": null
+}

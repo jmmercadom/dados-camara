@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160597,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160597",
+    "nomeCivil": "ROMARIO DE SOUZA FARIA",
+    "ultimoStatus": {
+      "id": 160597,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160597",
+      "nome": "ROMÁRIO",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160597.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ROMÁRIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.romario@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-01-29",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

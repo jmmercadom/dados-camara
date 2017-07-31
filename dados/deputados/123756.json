@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 123756,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+    "nomeCivil": "ANTÔNIA LUCILÉIA CRUZ RAMOS CÂMARA",
+    "ultimoStatus": {
+      "id": 123756,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/123756",
+      "nome": "ANTÔNIA LÚCIA",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "AC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ANTÔNIA LÚCIA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.antonialucia@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1970-07-17",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "AC",
+    "municipioNascimento": "Senador Guiomard",
+    "escolaridade": null
+  },
+  "links": null
+}

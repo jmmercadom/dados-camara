@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 159257,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159257",
+    "nomeCivil": "JOÃO BATISTA FREIRE VIEGAS",
+    "ultimoStatus": {
+      "id": 159257,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/159257",
+      "nome": "VIEGAS",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PB",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/159257.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "VIEGAS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.viegas@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1951-09-06",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

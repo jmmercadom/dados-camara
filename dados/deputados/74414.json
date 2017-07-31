@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74414,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74414",
+    "nomeCivil": "WILSON LEITE BRAGA",
+    "ultimoStatus": {
+      "id": 74414,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74414",
+      "nome": "WILSON BRAGA",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PB",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74414.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "WILSON BRAGA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.wilsonbraga@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1931-07-18",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PB",
+    "municipioNascimento": "Conceição",
+    "escolaridade": null
+  },
+  "links": null
+}

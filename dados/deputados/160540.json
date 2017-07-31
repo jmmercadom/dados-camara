@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160540,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160540",
+    "nomeCivil": "OTONIEL CARLOS DE LIMA",
+    "ultimoStatus": {
+      "id": 160540,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160540",
+      "nome": "OTONIEL LIMA",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160540.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "OTONIEL LIMA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.otoniellima@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1969-06-19",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "SP",
+    "municipioNascimento": "São Paulo",
+    "escolaridade": null
+  },
+  "links": null
+}

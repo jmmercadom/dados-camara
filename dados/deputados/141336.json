@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141336,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141336",
+    "nomeCivil": "ANTONIO CHARLES LUCENA DE OLIVEIRA MELLO",
+    "ultimoStatus": {
+      "id": 141336,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141336",
+      "nome": "CHARLES LUCENA",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "PE",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141336.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "CHARLES LUCENA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.charleslucena@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1967-06-23",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

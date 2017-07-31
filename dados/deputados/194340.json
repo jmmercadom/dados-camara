@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 194340,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194340",
+    "nomeCivil": "AUDIVAL AMÉLIO DA SILVA NETO",
+    "ultimoStatus": {
+      "id": 194340,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194340",
+      "nome": "VAL AMÉLIO",
+      "siglaPartido": "PRTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829",
+      "siglaUf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/194340.jpg",
+      "data": "2016-05-25",
+      "nomeEleitoral": "VAL AMÉLIO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.valamelio@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1993-12-11",
+    "dataFalecimento": null,
+    "ufNascimento": "AL",
+    "municipioNascimento": "Maceió",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

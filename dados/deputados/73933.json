@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73933,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73933",
+    "nomeCivil": "JOSÉ DA CRUZ MARINHO",
+    "ultimoStatus": {
+      "id": 73933,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73933",
+      "nome": "ZEQUINHA MARINHO",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "siglaUf": "PA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73933.jpg",
+      "data": "2014-12-31",
+      "nomeEleitoral": "ZEQUINHA MARINHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.zequinhamarinho@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Tomará posse no mandato de Vice-Governador do Estado do Pará"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1959-09-18",
+    "dataFalecimento": null,
+    "ufNascimento": "TO",
+    "municipioNascimento": "Araguacema",
+    "escolaridade": null
+  },
+  "links": null
+}

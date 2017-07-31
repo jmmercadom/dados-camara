@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141415,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141415",
+    "nomeCivil": "DJALMA VANDO BERGER",
+    "ultimoStatus": {
+      "id": 141415,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141415",
+      "nome": "DJALMA BERGER",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "siglaUf": "SC",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141415.jpg",
+      "data": "2008-12-29",
+      "nomeEleitoral": "DJALMA BERGER",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.djalmaberger@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de São José"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1962-03-07",
+    "dataFalecimento": null,
+    "ufNascimento": "SC",
+    "municipioNascimento": "Bom Retiro",
+    "escolaridade": null
+  },
+  "links": null
+}

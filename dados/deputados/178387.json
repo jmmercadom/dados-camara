@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178387,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178387",
+    "nomeCivil": "FRANCISCO DE ASSIS NUNES",
+    "ultimoStatus": {
+      "id": 178387,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178387",
+      "nome": "FRANCISCO DE ASSIS",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SC",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178387.jpg",
+      "data": "2014-12-10",
+      "nomeEleitoral": "FRANCISCO DE ASSIS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.franciscodeassis@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1962-09-08",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

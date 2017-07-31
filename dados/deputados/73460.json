@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73460,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73460",
+    "nomeCivil": "GUSTAVO BONATO FRUET",
+    "ultimoStatus": {
+      "id": 73460,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73460",
+      "nome": "GUSTAVO FRUET",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PR",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73460.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "GUSTAVO FRUET",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.gustavofruet@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-04-18",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PR",
+    "municipioNascimento": "Curitiba",
+    "escolaridade": null
+  },
+  "links": null
+}

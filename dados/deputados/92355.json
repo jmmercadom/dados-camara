@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 92355,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92355",
+    "nomeCivil": "VITOR PAULO ARAÚJO DOS SANTOS",
+    "ultimoStatus": {
+      "id": 92355,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92355",
+      "nome": "VITOR PAULO",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "RJ",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/92355.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "VITOR PAULO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.vitorpaulo@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1964-11-22",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Niterói",
+    "escolaridade": null
+  },
+  "links": null
+}

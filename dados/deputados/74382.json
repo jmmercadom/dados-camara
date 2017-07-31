@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 74382,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74382",
+    "nomeCivil": "EDUARDO FRANCISCO SCIARRA",
+    "ultimoStatus": {
+      "id": 74382,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74382",
+      "nome": "EDUARDO SCIARRA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "PR",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74382.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "EDUARDO SCIARRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eduardosciarra@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1952-10-05",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "PR",
+    "municipioNascimento": "Londrina",
+    "escolaridade": null
+  },
+  "links": null
+}

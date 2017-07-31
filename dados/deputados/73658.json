@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73658,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73658",
+    "nomeCivil": "JOFRAN FREJAT",
+    "ultimoStatus": {
+      "id": 73658,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73658",
+      "nome": "JOFRAN FREJAT",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "siglaUf": "DF",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73658.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "JOFRAN FREJAT",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jofranfrejat@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1937-05-19",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "PI",
+    "municipioNascimento": "Floriano",
+    "escolaridade": null
+  },
+  "links": null
+}

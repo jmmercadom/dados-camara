@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 154919,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/154919",
+    "nomeCivil": "ELEUSES VIEIRA DE PAIVA",
+    "ultimoStatus": {
+      "id": 154919,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/154919",
+      "nome": "ELEUSES PAIVA",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/154919.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "ELEUSES PAIVA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.eleusespaiva@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1953-06-13",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73929,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73929",
+    "nomeCivil": "JADER FONTENELLE BARBALHO",
+    "ultimoStatus": {
+      "id": 73929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73929",
+      "nome": "JADER BARBALHO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "PA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73929.jpg",
+      "data": "2010-11-30",
+      "nomeEleitoral": "JADER BARBALHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jaderbarbalho@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-10-27",
+    "dataFalecimento": null,
+    "ufNascimento": "PA",
+    "municipioNascimento": "Belém",
+    "escolaridade": null
+  },
+  "links": null
+}

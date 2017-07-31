@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 3151,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/3151",
+    "nomeCivil": "JAIRO ATAÍDE VIEIRA",
+    "ultimoStatus": {
+      "id": 3151,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/3151",
+      "nome": "JAIRO ATAÍDE",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/3151.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JAIRO ATAÍDE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.jairoataide@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1944-09-18",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

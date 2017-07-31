@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 174854,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/174854",
+    "nomeCivil": "DENÍLSON FRANCISCO TEIXEIRA",
+    "ultimoStatus": {
+      "id": 174854,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/174854",
+      "nome": "DENILSON TEIXEIRA",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "siglaUf": "MG",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/174854.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "DENILSON TEIXEIRA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.denilsonteixeira@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Efetivado",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1971-06-16",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

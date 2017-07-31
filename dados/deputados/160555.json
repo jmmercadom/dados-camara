@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160555,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160555",
+    "nomeCivil": "LOURIVAL MENDES DA FONSECA FILHO",
+    "ultimoStatus": {
+      "id": 160555,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160555",
+      "nome": "LOURIVAL MENDES",
+      "siglaPartido": "PTdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847",
+      "siglaUf": "MA",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160555.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "LOURIVAL MENDES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.lourivalmendes@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1955-03-27",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MA",
+    "municipioNascimento": "São Luís",
+    "escolaridade": null
+  },
+  "links": null
+}

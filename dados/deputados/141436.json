@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141436,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141436",
+    "nomeCivil": "FLÁVIO DINO DE CASTRO E COSTA",
+    "ultimoStatus": {
+      "id": 141436,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141436",
+      "nome": "FLÁVIO DINO",
+      "siglaPartido": "PCdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+      "siglaUf": "MA",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141436.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "FLÁVIO DINO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.flaviodino@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1968-04-30",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "MA",
+    "municipioNascimento": "São Luís",
+    "escolaridade": null
+  },
+  "links": null
+}

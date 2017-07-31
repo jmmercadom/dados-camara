@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 178862,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178862",
+    "nomeCivil": "ERONILDES VASCONCELOS CARVALHO",
+    "ultimoStatus": {
+      "id": 178862,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178862",
+      "nome": "TIA ERON",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "siglaUf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178862.jpg",
+      "data": "2015-02-01",
+      "nomeEleitoral": "TIA ERON",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.tiaeron@camara.leg.br"
+      },
+      "situacao": "Licença",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "F",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-06-02",
+    "dataFalecimento": null,
+    "ufNascimento": "BA",
+    "municipioNascimento": "Salvador",
+    "escolaridade": "Superior Incompleto"
+  },
+  "links": null
+}

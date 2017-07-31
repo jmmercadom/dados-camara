@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 175737,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175737",
+    "nomeCivil": "HELCIO ANTONIO DA SILVA",
+    "ultimoStatus": {
+      "id": 175737,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175737",
+      "nome": "HELCIO SILVA",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "SP",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/175737.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "HELCIO SILVA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.helciosilva@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-02-22",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

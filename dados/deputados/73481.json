@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 73481,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73481",
+    "nomeCivil": "FERNANDO STEPHAN MARRONI",
+    "ultimoStatus": {
+      "id": 73481,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73481",
+      "nome": "FERNANDO MARRONI",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "siglaUf": "RS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73481.jpg",
+      "data": "2015-02-09",
+      "nomeEleitoral": "FERNANDO MARRONI",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.fernandomarroni@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1956-07-31",
+    "dataFalecimento": null,
+    "ufNascimento": "RS",
+    "municipioNascimento": "Pelotas",
+    "escolaridade": null
+  },
+  "links": null
+}

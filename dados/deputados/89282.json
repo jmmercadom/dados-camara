@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 89282,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/89282",
+    "nomeCivil": "JOSÉ ANTÔNIO MACHADO REGUFFE",
+    "ultimoStatus": {
+      "id": 89282,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/89282",
+      "nome": "REGUFFE",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "siglaUf": "DF",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/89282.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "REGUFFE",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.reguffe@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-09-05",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "RJ",
+    "municipioNascimento": "Rio de Janeiro",
+    "escolaridade": null
+  },
+  "links": null
+}

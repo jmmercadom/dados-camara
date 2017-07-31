@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 133372,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133372",
+    "nomeCivil": "NATAN DONADON",
+    "ultimoStatus": {
+      "id": 133372,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133372",
+      "nome": "NATAN DONADON",
+      "siglaPartido": "S.PART.",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+      "siglaUf": "RO",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/133372.jpg",
+      "data": "2014-02-12",
+      "nomeEleitoral": "NATAN DONADON",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.natandonadon@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Representação nº 22/2013 (Sim: 467; Abst.: 01; Total de votos: 468)"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1967-07-27",
+    "dataFalecimento": null,
+    "ufNascimento": "PR",
+    "municipioNascimento": "Porecatu",
+    "escolaridade": null
+  },
+  "links": null
+}

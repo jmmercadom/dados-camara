@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141494,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141494",
+    "nomeCivil": "MARCELO DE ARAÚJO MELO",
+    "ultimoStatus": {
+      "id": 141494,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141494",
+      "nome": "MARCELO MELO",
+      "siglaPartido": "PMDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+      "siglaUf": "GO",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141494.jpg",
+      "data": "2011-01-31",
+      "nomeEleitoral": "MARCELO MELO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.marcelomelo@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1958-10-11",
+    "dataFalecimento": "2011-01-31",
+    "ufNascimento": "GO",
+    "municipioNascimento": "Luziânia",
+    "escolaridade": null
+  },
+  "links": null
+}

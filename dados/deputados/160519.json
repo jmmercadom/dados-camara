@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160519,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160519",
+    "nomeCivil": "JÚLIO JOSÉ DE CAMPOS",
+    "ultimoStatus": {
+      "id": 160519,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160519",
+      "nome": "JÚLIO CAMPOS",
+      "siglaPartido": "DEM",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+      "siglaUf": "MT",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160519.jpg",
+      "data": "2015-01-31",
+      "nomeEleitoral": "JÚLIO CAMPOS",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.juliocampos@camara.leg.br"
+      },
+      "situacao": "Exercício",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1946-12-11",
+    "dataFalecimento": "2015-01-31",
+    "ufNascimento": "MT",
+    "municipioNascimento": "Várzea Grande",
+    "escolaridade": null
+  },
+  "links": null
+}

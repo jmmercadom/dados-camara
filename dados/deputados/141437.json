@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 141437,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141437",
+    "nomeCivil": "FRANCINETO LUZ DE AGUIAR",
+    "ultimoStatus": {
+      "id": 141437,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141437",
+      "nome": "FRANK AGUIAR",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "siglaUf": "SP",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141437.jpg",
+      "data": "2008-12-29",
+      "nomeEleitoral": "FRANK AGUIAR",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.frankaguiar@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Vice-Prefeito de São Bernardo do Campo"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1970-09-18",
+    "dataFalecimento": null,
+    "ufNascimento": "PI",
+    "municipioNascimento": "Itainópolis",
+    "escolaridade": null
+  },
+  "links": null
+}

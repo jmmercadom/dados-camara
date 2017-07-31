@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 155920,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/155920",
+    "nomeCivil": "ANTONIO GERALDO DE SOUZA HENRIQUES FILHO",
+    "ultimoStatus": {
+      "id": 155920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/155920",
+      "nome": "GERALDINHO",
+      "siglaPartido": "PSOL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+      "siglaUf": "RS",
+      "idLegislatura": 53,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/155920.jpg",
+      "data": "2009-12-03",
+      "nomeEleitoral": "GERALDINHO",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.geraldinho@camara.leg.br"
+      },
+      "situacao": "Suplência",
+      "condicaoEleitoral": "Suplente",
+      "descricaoStatus": null
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1972-02-20",
+    "dataFalecimento": null,
+    "ufNascimento": null,
+    "municipioNascimento": null,
+    "escolaridade": null
+  },
+  "links": null
+}

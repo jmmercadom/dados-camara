@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160629,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629",
+    "nomeCivil": "ROMERO RODRIGUES VEIGA",
+    "ultimoStatus": {
+      "id": 160629,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629",
+      "nome": "ROMERO RODRIGUES",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "PB",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
+      "data": "2013-01-01",
+      "nomeEleitoral": "ROMERO RODRIGUES",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.romerorodrigues@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Prefeito de Campina Grande/PB"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1966-01-09",
+    "dataFalecimento": null,
+    "ufNascimento": "PB",
+    "municipioNascimento": "Campina Grande",
+    "escolaridade": null
+  },
+  "links": null
+}

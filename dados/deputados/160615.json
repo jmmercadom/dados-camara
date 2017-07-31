@@ -1,0 +1,40 @@
+{
+  "dados": {
+    "id": 160615,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160615",
+    "nomeCivil": "REINALDO AZAMBUJA SILVA",
+    "ultimoStatus": {
+      "id": 160615,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160615",
+      "nome": "REINALDO AZAMBUJA",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "siglaUf": "MS",
+      "idLegislatura": 54,
+      "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160615.jpg",
+      "data": "2014-12-29",
+      "nomeEleitoral": "REINALDO AZAMBUJA",
+      "gabinete": {
+        "nome": null,
+        "predio": null,
+        "sala": null,
+        "andar": null,
+        "telefone": null,
+        "email": "dep.reinaldoazambuja@camara.leg.br"
+      },
+      "situacao": "Vacância",
+      "condicaoEleitoral": "Titular",
+      "descricaoStatus": "Assumirá o mandato de Governador do Estado de Mato Grosso do Sul"
+    },
+    "cpf": "",
+    "sexo": "M",
+    "urlWebsite": null,
+    "redeSocial": [],
+    "dataNascimento": "1963-05-13",
+    "dataFalecimento": null,
+    "ufNascimento": "MS",
+    "municipioNascimento": "Campo Grande",
+    "escolaridade": null
+  },
+  "links": null
+}
